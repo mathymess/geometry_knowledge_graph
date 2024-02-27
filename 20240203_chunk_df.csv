@@ -1,0 +1,4915 @@
+|chunk|chunk_hash|source_url
+0|"In Euclidean geometry, an angle is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle.
+Angles formed by two rays are also known as plane angles as they lie in the plane that contains the rays. Angles are also formed by the intersection of two planes; these are called dihedral angles. Two intersecting curves may also define an angle, which is the angle of the rays lying tangent to the respective curves at their point of intersection.
+The magnitude of an angle is called an angular measure or simply ""angle"". Angle of rotation is a measure conventionally defined as the ratio of a circular arc length to its radius, and may be a negative number. In the case of a geometric angle, the arc is centered at the vertex and delimited by the sides. In the case of a rotation, the arc is centered at the center of the rotation and delimited by any other point and its image by the rotation."|4bd49cb1c18ede1eb214179e2fba9ff6|https://en.wikipedia.org/wiki/Angle
+1|"The word angle comes from the Latin word angulus, meaning ""corner"". Cognate words include the Greek ἀγκύλος (ankylοs) meaning ""crooked, curved"" and the English word ""ankle"". Both are connected with the Proto-Indo-European root *ank-, meaning ""to bend"" or ""bow"".Euclid defines a plane angle as the inclination to each other, in a plane, of two lines that meet each other and do not lie straight with respect to each other. According to the Neoplatonic metaphysician Proclus, an angle must be either a quality, a quantity, or a relationship. The first concept, angle as quality, was used by Eudemus of Rhodes, who regarded an angle as a deviation from a straight line; the second, angle as quality, by Carpus of Antioch, who regarded it as the interval or space between the intersecting lines; Euclid adopted the third: angle as a relationship."|ee8178f9c017e2971adf1acaca3c93fc|https://en.wikipedia.org/wiki/Angle
+2|"In mathematical expressions, it is common to use Greek letters (α, β, γ, θ, φ, . . . ) as variables denoting the size of some angle (the symbol π is typically not used for this purpose to avoid confusion with the constant denoted by that symbol). Lower case Roman letters (a, b, c, . . . ) are also used. In contexts where this is not confusing, an angle may be denoted by the upper case Roman letter denoting its vertex. See the figures in this article for examples.
+The three defining points may also identify angles in geometric figures. For example, the angle with vertex A formed by the rays AB and AC (that is, the half-lines from point A through points B and C) is denoted ∠BAC or  
+B
+A
+C  
+^  
+{\displaystyle {\widehat {\rm {BAC}}}}
+. Where there is no risk of confusion, the angle may sometimes be referred to by a single vertex alone (in this case, ""angle A"").
+Potentially, an angle denoted as, say, ∠BAC might refer to any of four angles: the clockwise angle from B to C about A, the anticlockwise angle from B to C about A, the clockwise angle from C to B about A, or the anticlockwise angle from C to B about A, where the direction in which the angle is measured determines its sign (see § Signed angles). However, in many geometrical situations, it is evident from the context that the positive angle less than or equal to 180 degrees is meant, and in these cases, no ambiguity arises. Otherwise, to avoid ambiguity, specific conventions may be adopted so that, for instance, ∠BAC always refers to the anticlockwise (positive) angle from B to C about A and ∠CAB the anticlockwise (positive) angle from C to B about A."|73e1a3077ce0d8066c52c63b25854f64|https://en.wikipedia.org/wiki/Angle
+3|"=== Individual angles ===
+There is some common terminology for angles, whose measure is always non-negative (see § Signed angles):  
+An angle equal to 0° or not turned is called a zero angle.
+An angle smaller than a right angle (less than 90°) is called an acute angle (""acute"" meaning ""sharp"").
+An angle equal to 1/4 turn (90° or π/2 radians) is called a right angle. Two lines that form a right angle are said to be normal, orthogonal, or perpendicular.
+An angle larger than a right angle and smaller than a straight angle (between 90° and 180°) is called an obtuse angle (""obtuse"" meaning ""blunt"").
+An angle equal to 1/2 turn (180° or π radians) is called a straight angle.
+An angle larger than a straight angle but less than 1 turn (between 180° and 360°) is called a reflex angle.
+An angle equal to 1 turn (360° or 2π radians) is called a full angle, complete angle, round angle or perigon.
+An angle that is not a multiple of a right angle is called an oblique angle.The names, intervals, and measuring units are shown in the table below:  
+=== Vertical and adjacent angle pairs ===  
+When two straight lines intersect at a point, four angles are formed. Pairwise, these angles are named according to their location relative to each other.  
+A transversal is a line that intersects a pair of (often parallel) lines and is associated with alternate interior angles, corresponding angles, interior angles, and exterior angles.  
+=== Combining angle pairs ===
+The angle addition postulate states that if B is in the interior of angle AOC, then  
+I.e., the measure of the angle AOC is the sum of the measure of angle AOB and the measure of angle BOC.
+Three special angle pairs involve the summation of angles:  
+=== Polygon-related angles ==="|b71633a1f45685be057f922924194392|https://en.wikipedia.org/wiki/Angle
+4|"I.e., the measure of the angle AOC is the sum of the measure of angle AOB and the measure of angle BOC.
+Three special angle pairs involve the summation of angles:  
+=== Polygon-related angles ===
+An angle that is part of a simple polygon is called an interior angle if it lies on the inside of that simple polygon. A simple concave polygon has at least one interior angle, that is, a reflex angle.   In Euclidean geometry, the measures of the interior angles of a triangle add up to π radians, 180°, or 1/2 turn; the measures of the interior angles of a simple convex quadrilateral add up to 2π radians, 360°, or 1 turn. In general, the measures of the interior angles of a simple convex polygon with n sides add up to (n − 2)π  radians, or (n − 2)180 degrees, (n − 2)2 right angles, or (n − 2)1/2 turn.
+The supplement of an interior angle is called an exterior angle; that is, an interior angle and an exterior angle form a linear pair of angles. There are two exterior angles at each vertex of the polygon, each determined by extending one of the two sides of the polygon that meet at the vertex; these two angles are vertical and hence are equal. An exterior angle measures the amount of rotation one must make at a vertex to trace the polygon. If the corresponding interior angle is a reflex angle, the exterior angle should be considered negative. Even in a non-simple polygon, it may be possible to define the exterior angle. Still, one will have to pick an orientation of the plane (or surface) to decide the sign of the exterior angle measure.   In Euclidean geometry, the sum of the exterior angles of a simple convex polygon, if only one of the two exterior angles is assumed at each vertex, will be one full turn (360°). The exterior angle here could be called a supplementary exterior angle. Exterior angles are commonly used in Logo Turtle programs when drawing regular polygons."|d4e50e358ac09cc626f2161ea78a58ee|https://en.wikipedia.org/wiki/Angle
+5|"In a triangle, the bisectors of two exterior angles and the bisector of the other interior angle are concurrent (meet at a single point).: 149
+In a triangle, three intersection points, each of an external angle bisector with the opposite extended side, are collinear.: p. 149
+In a triangle, three intersection points, two between an interior angle bisector and the opposite side, and the third between the other exterior angle bisector and the opposite side extended are collinear.: 149
+Some authors use the name exterior angle of a simple polygon to mean the explement exterior angle (not supplement!) of the interior angle. This conflicts with the above usage.  
+=== Plane-related angles ===
+The angle between two planes (such as two adjacent faces of a polyhedron) is called a dihedral angle. It may be defined as the acute angle between two lines normal to the planes.
+The angle between a plane and an intersecting straight line is equal to ninety degrees minus the angle between the intersecting line and the line that goes through the point of intersection and is normal to the plane."|546cdce4be716c8d190401e145269d59|https://en.wikipedia.org/wiki/Angle
+6|"The size of a geometric angle is usually characterized by the magnitude of the smallest rotation that maps one of the rays into the other. Angles of the same size are said to be equal congruent or equal in measure.
+In some contexts, such as identifying a point on a circle or describing the orientation of an object in two dimensions relative to a reference orientation, angles that differ by an exact multiple of a full turn are effectively equivalent.  In other contexts, such as identifying a point on a spiral curve or describing an object's cumulative rotation in two dimensions relative to a reference orientation, angles that differ by a non-zero multiple of a full turn are not equivalent.  
+To measure an angle θ, a circular arc centered at the vertex of the angle is drawn, e.g., with a pair of compasses. The ratio of the length s of the arc by the radius r of the circle is the number of radians in the angle:
+Conventionally, in mathematics and the SI, the radian is treated as being equal to the dimensionless unit 1, thus being normally omitted.
+The angle expressed by another angular unit may then be obtained by multiplying the angle by a suitable conversion constant of the form k/2π, where k is the measure of a complete turn expressed in the chosen unit (for example, k = 360° for degrees or 400  grad for gradians):  
+The value of θ thus defined is independent of the size of the circle: if the length of the radius is changed, then the arc length changes in the same proportion, so the ratio s/r is unaltered.  
+=== Units ==="|7c34886bd82e4074f27bc9c5c960e1ae|https://en.wikipedia.org/wiki/Angle
+7|"=== Units ===
+Throughout history, angles have been measured in various units. These are known as angular units, with the most contemporary units being the degree ( ° ), the radian (rad), and the gradian (grad), though many others have been used throughout history. Most units of angular measurement are defined such that one turn (i.e., the angle subtended by the circumference of a circle at its centre) is equal to n units, for some whole number n.  Two exceptions are the radian (and its decimal submultiples) and the diameter part.
+In the International System of Quantities, an angle is defined as a dimensionless quantity, and in particular, the radian unit is dimensionless. This convention impacts how angles are treated in dimensional analysis.
+The following table list some units used to represent angles.  
+=== Dimensional analysis ===  
+=== Signed angles ===  
+It is frequently helpful to impose a convention that allows positive and negative angular values to represent orientations and/or rotations in opposite directions or ""sense"" relative to some reference.
+In a two-dimensional Cartesian coordinate system, an angle is typically defined by its two sides, with its vertex at the origin. The initial side is on the positive x-axis, while the other side or terminal side is defined by the measure from the initial side in radians, degrees, or turns, with positive angles representing rotations toward the positive y-axis and negative angles representing rotations toward the negative y-axis.  When Cartesian coordinates are represented by standard position, defined by the x-axis rightward and the y-axis upward, positive rotations are anticlockwise, and negative cycles are clockwise."|894e56eea3c32583b611bd787efa6739|https://en.wikipedia.org/wiki/Angle
+8|"In many contexts, an angle of −θ is effectively equivalent to an angle of ""one full turn minus θ"". For example, an orientation represented as −45° is effectively equal to an orientation defined as 360° − 45° or 315°.  Although the final position is the same, a physical rotation (movement) of −45° is not the same as a rotation of 315° (for example, the rotation of a person holding a broom resting on a dusty floor would leave visually different traces of swept regions on the floor).
+In three-dimensional geometry, ""clockwise"" and ""anticlockwise"" have no absolute meaning, so the direction of positive and negative angles must be defined in terms of an orientation, which is typically determined by a normal vector passing through the angle's vertex and perpendicular to the plane in which the rays of the angle lie.
+In navigation, bearings or azimuth are measured relative to north.  By convention, viewed from above, bearing angles are positive clockwise, so a bearing of 45° corresponds to a north-east orientation. Negative bearings are not used in navigation, so a north-west orientation corresponds to a bearing of 315°.  
+=== Equivalent angles ===
+Angles that have the same measure (i.e., the same magnitude) are said to be equal or congruent. An angle is defined by its measure and is not dependent upon the lengths of the sides of the angle (e.g., all right angles are equal in measure).
+Two angles that share terminal sides, but differ in size by an integer multiple of a turn, are called coterminal angles."|726c5dbde1e294d50000d6f84c3aadec|https://en.wikipedia.org/wiki/Angle
+9|"Two angles that share terminal sides, but differ in size by an integer multiple of a turn, are called coterminal angles.
+The reference angle (sometimes called related angle) for any angle θ in standard position is the positive acute angle between the terminal side of θ and the x-axis (positive or negative). Procedurally, the magnitude of the reference angle for a given angle may determined by taking the angle's magnitude modulo 1/2 turn, 180°, or π radians, then stopping if the angle is acute, otherwise taking the supplementary angle, 180° minus the reduced magnitude. For example, an angle of 30 degrees is already a reference angle, and an angle of 150 degrees also has a reference angle of 30 degrees (180° − 150°). Angles of 210° and 510° correspond to a reference angle of 30 degrees as well (210° mod 180° = 30°, 510° mod 180° = 150° whose supplementary angle is 30°).  
+=== Related quantities ===
+For an angular unit, it is definitional that the angle addition postulate holds. Some quantities related to angles where the angle addition postulate does not hold include:  
+The slope or gradient is equal to the tangent of the angle; a gradient is often expressed as a percentage. For very small values (less than 5%), the slope of a line is approximately the measure in radians of its angle with the horizontal direction.
+The spread between two lines is defined in rational geometry as the square of the sine of the angle between the lines. As the sine of an angle and the sine of its supplementary angle are the same, any angle of rotation that maps one of the lines into the other leads to the same value for the spread between the lines.
+Although done rarely, one can report the direct results of trigonometric functions, such as the sine of the angle."|6bce5b6af8d9a9d96efd6e5dac04122d|https://en.wikipedia.org/wiki/Angle
+10|The angle between a line and a curve (mixed angle) or between two intersecting curves (curvilinear angle) is defined to be the angle between the tangents at the point of intersection. Various names (now rarely, if ever, used) have been given to particular cases:—amphicyrtic (Gr. ἀμφί, on both sides, κυρτός, convex) or cissoidal (Gr. κισσός, ivy), biconvex; xystroidal or sistroidal (Gr. ξυστρίς, a tool for scraping), concavo-convex; amphicoelic (Gr. κοίλη, a hollow) or angulus lunularis, biconcave.|c2d12980bb7b70f9fb723d2c11657fc9|https://en.wikipedia.org/wiki/Angle
+11|The ancient Greek mathematicians knew how to bisect an angle (divide it into two angles of equal measure) using only a compass and straightedge but could only trisect certain angles. In 1837, Pierre Wantzel showed that this construction could not be performed for most angles.|ad5073e860989232fb6582a71474069b|https://en.wikipedia.org/wiki/Angle
+12|"In the Euclidean space, the angle θ between two Euclidean vectors u and v is related to their dot product and their lengths by the formula  
+This formula supplies an easy method to find the angle between two planes (or curved surfaces) from their normal vectors and between skew lines from their vector equations.  
+=== Inner product ===
+To define angles in an abstract real inner product space, we replace the Euclidean dot product ( · ) by the inner product  
+⟨
+⋅
+,
+⋅
+⟩  
+{\displaystyle \langle \cdot ,\cdot \rangle }
+, i.e.  
+In a complex inner product space, the expression for the cosine above may give non-real values, so it is replaced with  
+or, more commonly, using the absolute value, with  
+The latter definition ignores the direction of the vectors. It thus describes the angle between one-dimensional subspaces  
+span
+⁡
+(  
+u  
+)  
+{\displaystyle \operatorname {span} (\mathbf {u} )}
+and  
+span
+⁡
+(  
+v  
+)  
+{\displaystyle \operatorname {span} (\mathbf {v} )}
+spanned by the vectors  
+u  
+{\displaystyle \mathbf {u} }
+and  
+v  
+{\displaystyle \mathbf {v} }
+correspondingly.  
+=== Angles between subspaces ===
+The definition of the angle between one-dimensional subspaces  
+span
+⁡
+(  
+u  
+)  
+{\displaystyle \operatorname {span} (\mathbf {u} )}
+and  
+span
+⁡
+(  
+v  
+)  
+{\displaystyle \operatorname {span} (\mathbf {v} )}
+given by  
+in a Hilbert space can be extended to subspaces of finite dimensions. Given two subspaces  
+U  
+{\displaystyle {\mathcal {U}}}
+,  
+W  
+{\displaystyle {\mathcal {W}}}
+with  
+dim
+⁡
+(  
+U  
+)
+:=
+k
+≤
+dim
+⁡
+(  
+W  
+)
+:=
+l  
+{\displaystyle \dim({\mathcal {U}}):=k\leq \dim({\mathcal {W}}):=l}
+, this leads to a definition of  
+k  
+{\displaystyle k}
+angles called canonical or principal angles between subspaces.  
+=== Angles in Riemannian geometry ===
+In Riemannian geometry, the metric tensor is used to define the angle between two tangents. Where U and V are tangent vectors and gij are the components of the metric tensor G,  
+=== Hyperbolic angle ==="|1b127983afde768b0eec9e9a9b83c282|https://en.wikipedia.org/wiki/Angle
+13|"=== Hyperbolic angle ===
+A hyperbolic angle is an argument of a hyperbolic function just as the circular angle is the argument of a circular function. The comparison can be visualized as the size of the openings of a hyperbolic sector and a circular sector since the areas of these sectors correspond to the angle magnitudes in each case. Unlike the circular angle, the hyperbolic angle is unbounded. When the circular and hyperbolic functions are viewed as infinite series in their angle argument, the circular ones are just alternating series forms of the hyperbolic functions. This weaving of the two types of angle and function was explained by Leonhard Euler in Introduction to the Analysis of the Infinite."|308bd91aaec58a26891bdaf9862dc5d4|https://en.wikipedia.org/wiki/Angle
+14|"In geography, the location of any point on the Earth can be identified using a geographic coordinate system. This system specifies the latitude and longitude of any location in terms of angles subtended at the center of the Earth, using the equator and (usually) the Greenwich meridian as references.
+In astronomy, a given point on the celestial sphere (that is, the apparent position of an astronomical object) can be identified using any of several astronomical coordinate systems, where the references vary according to the particular system. Astronomers measure the angular separation of two stars by imagining two lines through the center of the Earth, each intersecting one of the stars. The angle between those lines and the angular separation between the two stars can be measured.
+In both geography and astronomy, a sighting direction can be specified in terms of a vertical angle such as altitude /elevation with respect to the horizon as well as the azimuth with respect to north.
+Astronomers also measure objects' apparent size as an angular diameter. For example, the full moon has an angular diameter of approximately 0.5° when viewed from Earth. One could say, ""The Moon's diameter subtends an angle of half a degree."" The small-angle formula can convert such an angular measurement into a distance/size ratio.
+Other astronomical approximations include:  
+0.5° is the approximate diameter of the Sun and of the Moon as viewed from Earth.
+1° is the approximate width of the little finger at arm's length.
+10° is the approximate width of a closed fist at arm's length.
+20° is the approximate width of a handspan at arm's length.These measurements depend on the individual subject, and the above should be treated as rough rule of thumb approximations only.
+In astronomy, right ascension and declination are usually measured in angular units, expressed in terms of time, based on a 24-hour day."|2f1de260d65a67b696c5c7f6783d85d2|https://en.wikipedia.org/wiki/Angle
+15|"Aboughantous, Charles H. (2010), A High School First Course in Euclidean Plane Geometry, Universal Publishers, ISBN 978-1-59942-822-2
+Brinsmade, J. B. (December 1936). ""Plane and Solid Angles. Their Pedagogic Value When Introduced Explicitly"". American Journal of Physics. 4 (4): 175–179. Bibcode:1936AmJPh...4..175B. doi:10.1119/1.1999110.
+Brownstein, K. R. (July 1997). ""Angles—Let's treat them squarely"". American Journal of Physics. 65 (7): 605–614. Bibcode:1997AmJPh..65..605B. doi:10.1119/1.18616.
+Eder, W E (January 1982). ""A Viewpoint on the Quantity ""Plane Angle"""". Metrologia. 18 (1): 1–12. Bibcode:1982Metro..18....1E. doi:10.1088/0026-1394/18/1/002. S2CID 250750831.
+Foster, Marcus P (1 December 2010). ""The next 50 years of the SI: a review of the opportunities for the e-Science age"". Metrologia. 47 (6): R41–R51. doi:10.1088/0026-1394/47/6/R01. S2CID 117711734.
+Godfrey, Charles; Siddons, A. W. (1919), Elementary geometry: practical and theoretical (3rd ed.), Cambridge University Press
+Henderson, David W.; Taimina, Daina (2005), Experiencing Geometry / Euclidean and Non-Euclidean with History (3rd ed.), Pearson Prentice Hall, p. 104, ISBN 978-0-13-143748-7
+Heiberg, Johan Ludvig (1908), Heath, T. L. (ed.), Euclid, The Thirteen Books of Euclid's Elements, vol. 1, Cambridge: Cambridge University Press.
+Jacobs, Harold R. (1974), Geometry, W. H. Freeman, pp. 97, 255, ISBN 978-0-7167-0456-0
+Leonard, B P (1 October 2021). ""Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)"". Metrologia. 58 (5): 052001. Bibcode:2021Metro..58e2001L. doi:10.1088/1681-7575/abe0fc. S2CID 234036217.
+Lévy-Leblond, Jean-Marc (September 1998). ""Dimensional angles and universal constants"". American Journal of Physics. 66 (9): 814–815. Bibcode:1998AmJPh..66..814L. doi:10.1119/1.18964."|b3451c82ab90c0964518ccc491a120e8|https://en.wikipedia.org/wiki/Angle
+16|"Lévy-Leblond, Jean-Marc (September 1998). ""Dimensional angles and universal constants"". American Journal of Physics. 66 (9): 814–815. Bibcode:1998AmJPh..66..814L. doi:10.1119/1.18964.
+Mills, Ian (1 June 2016). ""On the units radian and cycle for the quantity plane angle"". Metrologia. 53 (3): 991–997. Bibcode:2016Metro..53..991M. doi:10.1088/0026-1394/53/3/991. S2CID 126032642.
+Mohr, Peter J; Phillips, William D (1 February 2015). ""Dimensionless units in the SI"". Metrologia. 52 (1): 40–47. arXiv:1409.2794. Bibcode:2015Metro..52...40M. doi:10.1088/0026-1394/52/1/40.
+Mohr, Peter J; Shirley, Eric L; Phillips, William D; Trott, Michael (23 June 2022). ""On the dimension of angles and their units"". Metrologia. 59 (5): 053001. arXiv:2203.12392. Bibcode:2022Metro..59e3001M. doi:10.1088/1681-7575/ac7bc2.
+Moser, James M. (1971), Modern Elementary Geometry, Prentice-Hall
+Quincey, Paul (1 April 2016). ""The range of options for handling plane angle and solid angle within a system of units"". Metrologia. 53 (2): 840–845. Bibcode:2016Metro..53..840Q. doi:10.1088/0026-1394/53/2/840. S2CID 125438811.
+Quincey, Paul (1 October 2021). ""Angles in the SI: a detailed proposal for solving the problem"". Metrologia. 58 (5): 053002. arXiv:2108.05704. Bibcode:2021Metro..58e3002Q. doi:10.1088/1681-7575/ac023f. S2CID 236547235.
+Romain, Jacques E. (July 1962). ""Angle as a fourth fundamental quantity"". Journal of Research of the National Bureau of Standards Section B. 66B (3): 97. doi:10.6028/jres.066B.012.
+Sidorov, L. A. (2001) [1994], ""Angle"", Encyclopedia of Mathematics, EMS Press
+Slocum, Jonathan (2007), Preliminary Indo-European lexicon — Pokorny PIE data, University of Texas research department: linguistics research center, archived from the original on 27 June 2010, retrieved 2 Feb 2010
+Shute, William G.; Shirk, William W.; Porter, George F. (1960), Plane and Solid Geometry, American Book Company, pp. 25–27"|8920f5aa78e976b9c2db7d57d0298e91|https://en.wikipedia.org/wiki/Angle
+17|"Shute, William G.; Shirk, William W.; Porter, George F. (1960), Plane and Solid Geometry, American Book Company, pp. 25–27
+Torrens, A B (1 January 1986). ""On Angles and Angular Quantities"". Metrologia. 22 (1): 1–7. Bibcode:1986Metro..22....1T. doi:10.1088/0026-1394/22/1/002. S2CID 250801509.
+Wong, Tak-wah; Wong, Ming-sim (2009), ""Angles in Intersecting and Parallel Lines"", New Century Mathematics, vol. 1B (1 ed.), Hong Kong: Oxford University Press, pp. 161–163, ISBN 978-0-19-800177-5This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911), ""Angle"", Encyclopædia Britannica, vol. 2 (11th ed.), Cambridge University Press, p. 14"|eb4af91bd33c7c0d0d08f81b7aacdbc4|https://en.wikipedia.org/wiki/Angle
+18|"In geometry, a polygon () is a plane figure made up of line segments connected to form a closed polygonal chain.
+The segments of a closed polygonal chain are called its edges or sides. The points where two edges meet are the polygon's vertices or corners. An n-gon is a polygon with n sides; for example, a triangle is a 3-gon.
+A simple polygon is one which does not intersect itself. More precisely, the only allowed intersections among the line segments that make up the polygon are the shared endpoints of consecutive segments in the polygonal chain. A simple polygon is the boundary of a region of the plane that is called a solid polygon. The interior of a solid polygon is its body, also known as a polygonal region or polygonal area. In contexts where one is concerned only with simple and solid polygons, a polygon may refer only to a simple polygon or to a solid polygon.
+A polygonal chain may cross over itself, creating star polygons and other self-intersecting polygons. Some sources also consider closed polygonal chains in Euclidean space to be a type of polygon (a skew polygon), even when the chain does not lie in a single plane.
+A polygon is a 2-dimensional example of the more general polytope in any number of dimensions. There are many more generalizations of polygons defined for different purposes."|2ec16ba8921c982745ebd9e8c7f9e8a0|https://en.wikipedia.org/wiki/Polygon
+19|The word polygon derives from the Greek adjective πολύς (polús) 'much', 'many' and γωνία (gōnía) 'corner' or 'angle'. It has been suggested that γόνυ (gónu) 'knee' may be the origin of gon.|ee670793527b5d048ec9a18d7af87852|https://en.wikipedia.org/wiki/Polygon
+20|"=== Number of sides ===
+Polygons are primarily classified by the number of sides.  
+=== Convexity and intersection ===
+Polygons may be characterized by their convexity or type of non-convexity:  
+Convex: any line drawn through the polygon (and not tangent to an edge or corner) meets its boundary exactly twice. As a consequence, all its interior angles are less than 180°. Equivalently, any line segment with endpoints on the boundary passes through only interior points between its endpoints. This condition is true for polygons in any geometry, not just Euclidean.
+Non-convex: a line may be found which meets its boundary more than twice. Equivalently, there exists a line segment between two boundary points that passes outside the polygon.
+Simple: the boundary of the polygon does not cross itself. All convex polygons are simple.
+Concave: Non-convex and simple. There is at least one interior angle greater than 180°.
+Star-shaped: the whole interior is visible from at least one point, without crossing any edge. The polygon must be simple, and may be convex or concave. All convex polygons are star-shaped.
+Self-intersecting: the boundary of the polygon crosses itself. The term complex is sometimes used in contrast to simple, but this usage risks confusion with the idea of a complex polygon as one which exists in the complex Hilbert plane consisting of two complex dimensions.
+Star polygon: a polygon which self-intersects in a regular way. A polygon cannot be both a star and star-shaped.  
+=== Equality and symmetry ===
+Equiangular: all corner angles are equal.
+Equilateral: all edges are of the same length.
+Regular: both equilateral and equiangular.
+Cyclic: all corners lie on a single circle, called the circumcircle.
+Tangential: all sides are tangent to an inscribed circle.
+Isogonal or vertex-transitive: all corners lie within the same symmetry orbit. The polygon is also cyclic and equiangular."|be6db54ae4e08e6a41aa444206daa594|https://en.wikipedia.org/wiki/Polygon
+21|"Tangential: all sides are tangent to an inscribed circle.
+Isogonal or vertex-transitive: all corners lie within the same symmetry orbit. The polygon is also cyclic and equiangular.
+Isotoxal or edge-transitive: all sides lie within the same symmetry orbit. The polygon is also equilateral and tangential.The property of regularity may be defined in other ways: a polygon is regular if and only if it is both isogonal and isotoxal, or equivalently it is both cyclic and equilateral. A non-convex regular polygon is called a regular star polygon.  
+=== Miscellaneous ===
+Rectilinear: the polygon's sides meet at right angles, i.e. all its interior angles are 90 or 270 degrees.
+Monotone with respect to a given line L: every line orthogonal to L intersects the polygon not more than twice."|2962aba2a8544331455c0f7be5a4c3a6|https://en.wikipedia.org/wiki/Polygon
+22|"Euclidean geometry is assumed throughout.  
+=== Angles ===
+Any polygon has as many corners as it has sides. Each corner has several angles. The two most important ones are:  
+Interior angle – The sum of the interior angles of a simple n-gon is (n − 2) × π radians or (n − 2) × 180 degrees. This is because any simple n-gon ( having n sides ) can be considered to be made up of (n − 2) triangles, each of which has an angle sum of π radians or 180 degrees. The measure of any interior angle of a convex regular n-gon is  
+(  
+1
+−  
+2
+n  
+)  
+π  
+{\displaystyle \left(1-{\tfrac {2}{n}}\right)\pi }
+radians or  
+180
+−  
+360
+n  
+{\displaystyle 180-{\tfrac {360}{n}}}
+degrees. The interior angles of regular star polygons were first studied by Poinsot, in the same paper in which he describes the four regular star polyhedra: for a regular  
+p
+q  
+{\displaystyle {\tfrac {p}{q}}}
+-gon (a p-gon with central density q), each interior angle is  
+π
+(
+p
+−
+2
+q
+)  
+p  
+{\displaystyle {\tfrac {\pi (p-2q)}{p}}}
+radians or  
+180
+(
+p
+−
+2
+q
+)  
+p  
+{\displaystyle {\tfrac {180(p-2q)}{p}}}
+degrees.
+Exterior angle – The exterior angle is the supplementary angle to the interior angle. Tracing around a convex n-gon, the angle ""turned"" at a corner is the exterior or external angle. Tracing all the way around the polygon makes one full turn, so the sum of the exterior angles must be 360°. This argument can be generalized to concave simple polygons, if external angles that turn in the opposite direction are subtracted from the total turned. Tracing around an n-gon in general, the sum of the exterior angles (the total amount one rotates at the vertices) can be any integer multiple d of 360°, e.g. 720° for a pentagram and 0° for an angular ""eight"" or antiparallelogram, where d is the density or turning number of the polygon.  
+=== Area ===
+In this section, the vertices of the polygon under consideration are taken to be  
+(  
+x  
+0  
+,  
+y  
+0  
+)
+,
+(  
+x  
+1  
+,  
+y  
+1  
+)
+,
+…
+,
+(  
+x  
+n
+−
+1  
+,  
+y  
+n"|cce051c23f0ab9e61553c6a6968fc864|https://en.wikipedia.org/wiki/Polygon
+23|"=== Area ===
+In this section, the vertices of the polygon under consideration are taken to be  
+(  
+x  
+0  
+,  
+y  
+0  
+)
+,
+(  
+x  
+1  
+,  
+y  
+1  
+)
+,
+…
+,
+(  
+x  
+n
+−
+1  
+,  
+y  
+n
+−
+1  
+)  
+{\displaystyle (x_{0},y_{0}),(x_{1},y_{1}),\ldots ,(x_{n-1},y_{n-1})}
+in order. For convenience in some formulas, the notation (xn, yn) = (x0, y0) will also be used.  
+==== Simple polygons ====  
+If the polygon is non-self-intersecting (that is, simple), the signed area is  
+A
+=  
+1
+2  
+∑  
+i
+=
+0  
+n
+−
+1  
+(  
+x  
+i  
+y  
+i
++
+1  
+−  
+x  
+i
++
+1  
+y  
+i  
+)  
+where  
+x  
+n  
+=  
+x  
+0  
+and  
+y  
+n  
+=  
+y  
+0  
+,  
+{\displaystyle A={\frac {1}{2}}\sum _{i=0}^{n-1}(x_{i}y_{i+1}-x_{i+1}y_{i})\quad {\text{where }}x_{n}=x_{0}{\text{ and }}y_{n}=y_{0},}
+or, using determinants  
+16  
+A  
+2  
+=  
+∑  
+i
+=
+0  
+n
+−
+1  
+∑  
+j
+=
+0  
+n
+−
+1  
+|  
+Q  
+i
+,
+j  
+Q  
+i
+,
+j
++
+1  
+Q  
+i
++
+1
+,
+j  
+Q  
+i
++
+1
+,
+j
++
+1  
+|  
+,  
+{\displaystyle 16A^{2}=\sum _{i=0}^{n-1}\sum _{j=0}^{n-1}{\begin{vmatrix}Q_{i,j}&Q_{i,j+1}\\Q_{i+1,j}&Q_{i+1,j+1}\end{vmatrix}},}
+where  
+Q  
+i
+,
+j  
+{\displaystyle Q_{i,j}}
+is the squared distance between  
+(  
+x  
+i  
+,  
+y  
+i  
+)  
+{\displaystyle (x_{i},y_{i})}
+and  
+(  
+x  
+j  
+,  
+y  
+j  
+)
+.  
+{\displaystyle (x_{j},y_{j}).}
+The signed area depends on the ordering of the vertices and of the orientation of the plane. Commonly, the positive orientation is defined by the (counterclockwise) rotation that maps the positive x-axis to the positive y-axis. If the vertices are ordered counterclockwise (that is, according to positive orientation), the signed area is positive; otherwise, it is negative. In either case, the area formula is correct in absolute value. This is commonly called the shoelace formula or surveyor's formula.The area A of a simple polygon can also be computed if the lengths of the sides, a1, a2, ..., an and the exterior angles, θ1, θ2, ..., θn are known, from:  
+A
+=  
+1
+2  
+(  
+a  
+1  
+[  
+a  
+2  
+sin
+⁡
+(  
+θ  
+1  
+)
++  
+a  
+3  
+sin
+⁡
+(  
+θ  
+1  
++  
+θ  
+2  
+)
++"|5ad1d6018630d25f3c8398633357edcf|https://en.wikipedia.org/wiki/Polygon
+24|"A
+=  
+1
+2  
+(  
+a  
+1  
+[  
+a  
+2  
+sin
+⁡
+(  
+θ  
+1  
+)
++  
+a  
+3  
+sin
+⁡
+(  
+θ  
+1  
++  
+θ  
+2  
+)
++
+⋯
++  
+a  
+n
+−
+1  
+sin
+⁡
+(  
+θ  
+1  
++  
+θ  
+2  
++
+⋯
++  
+θ  
+n
+−
+2  
+)
+]  
++  
+a  
+2  
+[  
+a  
+3  
+sin
+⁡
+(  
+θ  
+2  
+)
++  
+a  
+4  
+sin
+⁡
+(  
+θ  
+2  
++  
+θ  
+3  
+)
++
+⋯
++  
+a  
+n
+−
+1  
+sin
+⁡
+(  
+θ  
+2  
++
+⋯
++  
+θ  
+n
+−
+2  
+)
+]  
++
+⋯
++  
+a  
+n
+−
+2  
+[  
+a  
+n
+−
+1  
+sin
+⁡
+(  
+θ  
+n
+−
+2  
+)
+]
+)
+.  
+{\displaystyle {\begin{aligned}A={\frac {1}{2}}(a_{1}[a_{2}\sin(\theta _{1})+a_{3}\sin(\theta _{1}+\theta _{2})+\cdots +a_{n-1}\sin(\theta _{1}+\theta _{2}+\cdots +\theta _{n-2})]\\{}+a_{2}[a_{3}\sin(\theta _{2})+a_{4}\sin(\theta _{2}+\theta _{3})+\cdots +a_{n-1}\sin(\theta _{2}+\cdots +\theta _{n-2})]\\{}+\cdots +a_{n-2}[a_{n-1}\sin(\theta _{n-2})]).\end{aligned}}}
+The formula was described by Lopshits in 1963.If the polygon can be drawn on an equally spaced grid such that all its vertices are grid points, Pick's theorem gives a simple formula for the polygon's area based on the numbers of interior and boundary grid points: the former number plus one-half the latter number, minus 1.
+In every polygon with perimeter p and area A , the isoperimetric inequality  
+p  
+2  
+>
+4
+π
+A  
+{\displaystyle p^{2}>4\pi A}
+holds.For any two simple polygons of equal area, the Bolyai–Gerwien theorem asserts that the first can be cut into polygonal pieces which can be reassembled to form the second polygon.
+The lengths of the sides of a polygon do not in general determine its area. However, if the polygon is simple and cyclic then the sides do determine the area. Of all n-gons with given side lengths, the one with the largest area is cyclic. Of all n-gons with a given perimeter, the one with the largest area is regular (and therefore cyclic).  
+==== Regular polygons ====
+Many specialized formulas apply to the areas of regular polygons.
+The area of a regular polygon is given in terms of the radius r of its inscribed circle and its perimeter p by  
+A
+=  
+1
+2  
+⋅
+p
+⋅
+r
+."|9b7c9745c4003832233146f8e1b2063c|https://en.wikipedia.org/wiki/Polygon
+25|"The area of a regular polygon is given in terms of the radius r of its inscribed circle and its perimeter p by  
+A
+=  
+1
+2  
+⋅
+p
+⋅
+r
+.  
+{\displaystyle A={\tfrac {1}{2}}\cdot p\cdot r.}
+This radius is also termed its apothem and is often represented as a.
+The area of a regular n-gon in terms of the radius R of its circumscribed circle can be expressed trigonometrically as:  
+A
+=  
+R  
+2  
+⋅  
+n
+2  
+⋅
+sin
+⁡  
+2
+π  
+n  
+=  
+R  
+2  
+⋅
+n
+⋅
+sin
+⁡  
+π
+n  
+⋅
+cos
+⁡  
+π
+n  
+{\displaystyle A=R^{2}\cdot {\frac {n}{2}}\cdot \sin {\frac {2\pi }{n}}=R^{2}\cdot n\cdot \sin {\frac {\pi }{n}}\cdot \cos {\frac {\pi }{n}}}
+The area of a regular n-gon inscribed in a unit-radius circle, with side s and interior angle  
+α
+,  
+{\displaystyle \alpha ,}
+can also be expressed trigonometrically as:  
+A
+=  
+n  
+s  
+2  
+4  
+cot
+⁡  
+π
+n  
+=  
+n  
+s  
+2  
+4  
+cot
+⁡  
+α  
+n
+−
+2  
+=
+n
+⋅
+sin
+⁡  
+α  
+n
+−
+2  
+⋅
+cos
+⁡  
+α  
+n
+−
+2  
+.  
+{\displaystyle A={\frac {ns^{2}}{4}}\cot {\frac {\pi }{n}}={\frac {ns^{2}}{4}}\cot {\frac {\alpha }{n-2}}=n\cdot \sin {\frac {\alpha }{n-2}}\cdot \cos {\frac {\alpha }{n-2}}.}  
+==== Self-intersecting ====
+The area of a self-intersecting polygon can be defined in two different ways, giving different answers:  
+Using the formulas for simple polygons, we allow that particular regions within the polygon may have their area multiplied by a factor which we call the density of the region. For example, the central convex pentagon in the center of a pentagram has density 2. The two triangular regions of a cross-quadrilateral (like a figure 8) have opposite-signed densities, and adding their areas together can give a total area of zero for the whole figure."|85da10af6596ef9711a092f10685d0a0|https://en.wikipedia.org/wiki/Polygon
+26|"Considering the enclosed regions as point sets, we can find the area of the enclosed point set. This corresponds to the area of the plane covered by the polygon or to the area of one or more simple polygons having the same outline as the self-intersecting one. In the case of the cross-quadrilateral, it is treated as two simple triangles.  
+=== Centroid ===
+Using the same convention for vertex coordinates as in the previous section, the coordinates of the centroid of a solid simple polygon are  
+C  
+x  
+=  
+1  
+6
+A  
+∑  
+i
+=
+0  
+n
+−
+1  
+(  
+x  
+i  
++  
+x  
+i
++
+1  
+)
+(  
+x  
+i  
+y  
+i
++
+1  
+−  
+x  
+i
++
+1  
+y  
+i  
+)
+,  
+{\displaystyle C_{x}={\frac {1}{6A}}\sum _{i=0}^{n-1}(x_{i}+x_{i+1})(x_{i}y_{i+1}-x_{i+1}y_{i}),}  
+C  
+y  
+=  
+1  
+6
+A  
+∑  
+i
+=
+0  
+n
+−
+1  
+(  
+y  
+i  
++  
+y  
+i
++
+1  
+)
+(  
+x  
+i  
+y  
+i
++
+1  
+−  
+x  
+i
++
+1  
+y  
+i  
+)
+.  
+{\displaystyle C_{y}={\frac {1}{6A}}\sum _{i=0}^{n-1}(y_{i}+y_{i+1})(x_{i}y_{i+1}-x_{i+1}y_{i}).}
+In these formulas, the signed value of area  
+A  
+{\displaystyle A}
+must be used.
+For triangles (n = 3), the centroids of the vertices and of the solid shape are the same, but, in general, this is not true for n > 3. The centroid of the vertex set of a polygon with n vertices has the coordinates  
+c  
+x  
+=  
+1
+n  
+∑  
+i
+=
+0  
+n
+−
+1  
+x  
+i  
+,  
+{\displaystyle c_{x}={\frac {1}{n}}\sum _{i=0}^{n-1}x_{i},}  
+c  
+y  
+=  
+1
+n  
+∑  
+i
+=
+0  
+n
+−
+1  
+y  
+i  
+.  
+{\displaystyle c_{y}={\frac {1}{n}}\sum _{i=0}^{n-1}y_{i}.}"|374b20959230c3e82eb75b449a3a3d86|https://en.wikipedia.org/wiki/Polygon
+27|"The idea of a polygon has been generalized in various ways. Some of the more important include:  
+A spherical polygon is a circuit of arcs of great circles (sides) and vertices on the surface of a sphere. It allows the digon, a polygon having only two sides and two corners, which is impossible in a flat plane. Spherical polygons play an important role in cartography (map making) and in Wythoff's construction of the uniform polyhedra.
+A skew polygon does not lie in a flat plane, but zigzags in three (or more) dimensions. The Petrie polygons of the regular polytopes are well known examples.
+An apeirogon is an infinite sequence of sides and angles, which is not closed but has no ends because it extends indefinitely in both directions.
+A skew apeirogon is an infinite sequence of sides and angles that do not lie in a flat plane.
+A polygon with holes is an area-connected or multiply-connected planar polygon with one external boundary and one or more interior boundaries (holes).
+A complex polygon is a configuration analogous to an ordinary polygon, which exists in the complex plane of two real and two imaginary dimensions.
+An abstract polygon is an algebraic partially ordered set representing the various elements (sides, vertices, etc.) and their connectivity. A real geometric polygon is said to be a realization of the associated abstract polygon. Depending on the mapping, all the generalizations described here can be realized.
+A polyhedron is a three-dimensional solid bounded by flat polygonal faces, analogous to a polygon in two dimensions. The corresponding shapes in four or higher dimensions are called polytopes. (In other conventions, the words polyhedron and polytope are used in any dimension, with the distinction between the two that a polytope is necessarily bounded.)"|853b090d6918ddffaf638db21091aa90|https://en.wikipedia.org/wiki/Polygon
+28|"The word polygon comes from Late Latin polygōnum (a noun), from Greek πολύγωνον (polygōnon/polugōnon), noun use of neuter of πολύγωνος (polygōnos/polugōnos, the masculine adjective), meaning ""many-angled"". Individual polygons are named (and sometimes classified) according to the number of sides, combining a Greek-derived numerical prefix with the suffix -gon, e.g. pentagon, dodecagon. The triangle, quadrilateral and nonagon are exceptions.
+Beyond decagons (10-sided) and dodecagons (12-sided), mathematicians generally use numerical notation, for example 17-gon and 257-gon.Exceptions exist for side counts that are easily expressed in verbal form (e.g. 20 and 30), or are used by non-mathematicians. Some special polygons also have their own names; for example the regular star pentagon is also known as the pentagram.  
+To construct the name of a polygon with more than 20 and fewer than 100 edges, combine the prefixes as follows. The ""kai"" term applies to 13-gons and higher and was used by Kepler, and advocated by John H. Conway for clarity of concatenated prefix numbers in the naming of quasiregular polyhedra, though not all sources use it."|26c0a7a0ae775215b15f3978cfbad809|https://en.wikipedia.org/wiki/Polygon
+29|Polygons have been known since ancient times. The regular polygons were known to the ancient Greeks, with the pentagram, a non-convex regular polygon (star polygon), appearing as early as the 7th century B.C. on a krater by Aristophanes, found at Caere and now in the Capitoline Museum.The first known systematic study of non-convex polygons in general was made by Thomas Bradwardine in the 14th century.In 1952, Geoffrey Colin Shephard generalized the idea of polygons to the complex plane, where each real dimension is accompanied by an imaginary one, to create complex polygons.|f898b8dd59d62ab8e4923a89ccf70fa2|https://en.wikipedia.org/wiki/Polygon
+30|"Polygons appear in rock formations, most commonly as the flat facets of crystals, where the angles between the sides depend on the type of mineral from which the crystal is made.
+Regular hexagons can occur when the cooling of lava forms areas of tightly packed columns of basalt, which may be seen at the Giant's Causeway in Northern Ireland, or at the Devil's Postpile in California.
+In biology, the surface of the wax honeycomb made by bees is an array of hexagons, and the sides and base of each cell are also polygons."|90d18d24e5dc494cfa663e65f9de46cd|https://en.wikipedia.org/wiki/Polygon
+31|"In computer graphics, a polygon is a primitive used in modelling and rendering. They are defined in a database, containing arrays of vertices (the coordinates of the geometrical vertices, as well as other attributes of the polygon, such as color, shading and texture), connectivity information, and materials.Any surface is modelled as a tessellation called polygon mesh. If a square mesh has n + 1 points (vertices) per side, there are n squared squares in the mesh, or 2n squared triangles since there are two triangles in a square. There are (n + 1)2 / 2(n2) vertices per triangle. Where n is large, this approaches one half. Or, each vertex inside the square mesh connects four edges (lines).
+The imaging system calls up the structure of polygons needed for the scene to be created from the database. This is transferred to active memory and finally, to the display system (screen, TV monitors etc.) so that the scene can be viewed. During this process, the imaging system renders polygons in correct perspective ready for transmission of the processed data to the display system. Although polygons are two-dimensional, through the system computer they are placed in a visual scene in the correct three-dimensional orientation.
+In computer graphics and computational geometry, it is often necessary to determine whether a given point  
+P
+=
+(  
+x  
+0  
+,  
+y  
+0  
+)  
+{\displaystyle P=(x_{0},y_{0})}
+lies inside a simple polygon given by a sequence of line segments. This is called the point in polygon test."|a45263638dcaa6f81cf59ee5590b2d09|https://en.wikipedia.org/wiki/Polygon
+32|"In mathematics, an ellipse is a plane curve surrounding two focal points, such that for all points on the curve, the sum of the two distances to the focal points is a constant. It generalizes a circle, which is the special type of ellipse in which the two focal points are the same. The elongation of an ellipse is measured by its eccentricity  
+e  
+{\displaystyle e}
+, a number ranging from  
+e
+=
+0  
+{\displaystyle e=0}
+(the limiting case of a circle) to  
+e
+=
+1  
+{\displaystyle e=1}
+(the limiting case of infinite elongation, no longer an ellipse but a parabola).
+An ellipse has a simple algebraic solution for its area, but only approximations for its perimeter (also known as circumference), for which integration is required to obtain an exact solution.
+Analytically, the equation of a standard ellipse centered at the origin with width  
+2
+a  
+{\displaystyle 2a}
+and height  
+2
+b  
+{\displaystyle 2b}
+is:  
+Assuming  
+a
+≥
+b  
+{\displaystyle a\geq b}
+, the foci are  
+(
+±
+c
+,
+0
+)  
+{\displaystyle (\pm c,0)}
+for  
+c
+=  
+a  
+2  
+−  
+b  
+2  
+{\textstyle c={\sqrt {a^{2}-b^{2}}}}
+. The standard parametric equation is:  
+Ellipses are the closed type of conic section: a plane curve tracing the intersection of a cone with a plane (see figure). Ellipses have many similarities with the other two forms of conic sections, parabolas and hyperbolas, both of which are open and unbounded. An angled cross section of a right circular cylinder is also an ellipse.
+An ellipse may also be defined in terms of one focal point and a line outside the ellipse called the directrix: for all points on the ellipse, the ratio between the distance to the focus and the distance to the directrix is a constant. This constant ratio is the above-mentioned eccentricity:"|b3a91d54f63eeaa6931fcf501aabc665|https://en.wikipedia.org/wiki/Ellipse
+33|"Ellipses are common in physics, astronomy and engineering. For example, the orbit of each planet in the Solar System is approximately an ellipse with the Sun at one focus point (more precisely, the focus is the barycenter of the Sun–planet pair). The same is true for moons orbiting planets and all other systems of two astronomical bodies. The shapes of planets and stars are often well described by ellipsoids. A circle viewed from a side angle looks like an ellipse: that is, the ellipse is the image of a circle under parallel or perspective projection. The ellipse is also the simplest Lissajous figure formed when the horizontal and vertical motions are sinusoids with the same frequency: a similar effect leads to elliptical polarization of light in optics.
+The name, ἔλλειψις (élleipsis, ""omission""), was given by Apollonius of Perga in his Conics."|3db0d16807b905a52bda57f626853fc6|https://en.wikipedia.org/wiki/Ellipse
+34|"An ellipse can be defined geometrically as a set or locus of points in the Euclidean plane:  
+The midpoint  
+C  
+{\displaystyle C}
+of the line segment joining the foci is called the center of the ellipse. The line through the foci is called the major axis, and the line perpendicular to it through the center is the minor axis. The major axis intersects the ellipse at two vertices  
+V  
+1  
+,  
+V  
+2  
+{\displaystyle V_{1},V_{2}}
+, which have distance  
+a  
+{\displaystyle a}
+to the center. The distance  
+c  
+{\displaystyle c}
+of the foci to the center is called the focal distance or linear eccentricity. The quotient  
+e
+=  
+c
+a  
+{\displaystyle e={\tfrac {c}{a}}}
+is the eccentricity.
+The case  
+F  
+1  
+=  
+F  
+2  
+{\displaystyle F_{1}=F_{2}}
+yields a circle and is included as a special type of ellipse.
+The equation  
+|  
+P  
+F  
+2  
+|  
++  
+|  
+P  
+F  
+1  
+|  
+=
+2
+a  
+{\displaystyle \left|PF_{2}\right|+\left|PF_{1}\right|=2a}
+can be viewed in a different way (see figure):  
+c  
+2  
+{\displaystyle c_{2}}
+is called the circular directrix (related to focus  
+F  
+2  
+{\displaystyle F_{2}}
+) of the ellipse. This property should not be confused with the definition of an ellipse using a directrix line below.
+Using Dandelin spheres, one can prove that any section of a cone with a plane is an ellipse, assuming the plane does not contain the apex and has slope less than that of the lines on the cone."|c3d4de3a141f85f659b1eee382b1684f|https://en.wikipedia.org/wiki/Ellipse
+35|"=== Standard equation ===
+The standard form of an ellipse in Cartesian coordinates assumes that the origin is the center of the ellipse, the x-axis is the major axis, and:  
+For an arbitrary point  
+(
+x
+,
+y
+)  
+{\displaystyle (x,y)}
+the distance to the focus  
+(
+c
+,
+0
+)  
+{\displaystyle (c,0)}
+is  
+(
+x
+−
+c  
+)  
+2  
++  
+y  
+2  
+{\textstyle {\sqrt {(x-c)^{2}+y^{2}}}}
+and to the other focus  
+(
+x
++
+c  
+)  
+2  
++  
+y  
+2  
+{\textstyle {\sqrt {(x+c)^{2}+y^{2}}}}
+. Hence the point  
+(
+x
+,  
+y
+)  
+{\displaystyle (x,\,y)}
+is on the ellipse whenever:  
+Removing the radicals by suitable squarings and using  
+b  
+2  
+=  
+a  
+2  
+−  
+c  
+2  
+{\displaystyle b^{2}=a^{2}-c^{2}}
+(see diagram) produces the standard equation of the ellipse:
+or, solved for y:  
+The width and height parameters  
+a
+,  
+b  
+{\displaystyle a,\;b}
+are called the semi-major and semi-minor axes. The top and bottom points  
+V  
+3  
+=
+(
+0
+,  
+b
+)
+,  
+V  
+4  
+=
+(
+0
+,  
+−
+b
+)  
+{\displaystyle V_{3}=(0,\,b),\;V_{4}=(0,\,-b)}
+are the co-vertices. The distances from a point  
+(
+x
+,  
+y
+)  
+{\displaystyle (x,\,y)}
+on the ellipse to the left and right foci are  
+a
++
+e
+x  
+{\displaystyle a+ex}
+and  
+a
+−
+e
+x  
+{\displaystyle a-ex}
+.
+It follows from the equation that the ellipse is symmetric with respect to the coordinate axes and hence with respect to the origin.  
+=== Parameters ===  
+==== Principal axes ====
+Throughout this article, the semi-major and semi-minor axes are denoted  
+a  
+{\displaystyle a}
+and  
+b  
+{\displaystyle b}
+, respectively, i.e.  
+a
+≥
+b
+>
+0  
+.  
+{\displaystyle a\geq b>0\ .}  
+In principle, the canonical ellipse equation  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+may have  
+a
+<
+b  
+{\displaystyle a<b}
+(and hence the ellipse would be taller than it is wide). This form can be converted to the standard form by transposing the variable names  
+x  
+{\displaystyle x}
+and  
+y  
+{\displaystyle y}
+and the parameter names  
+a"|b2f331f95e1efd3f7a3f804f6532f074|https://en.wikipedia.org/wiki/Ellipse
+36|"x  
+{\displaystyle x}
+and  
+y  
+{\displaystyle y}
+and the parameter names  
+a  
+{\displaystyle a}
+and  
+b
+.  
+{\displaystyle b.}  
+==== Linear eccentricity ====
+This is the distance from the center to a focus:  
+c
+=  
+a  
+2  
+−  
+b  
+2  
+{\displaystyle c={\sqrt {a^{2}-b^{2}}}}
+.  
+==== Eccentricity ====
+The eccentricity can be expressed as:  
+assuming  
+a
+>
+b
+.  
+{\displaystyle a>b.}
+An ellipse with equal axes (  
+a
+=
+b  
+{\displaystyle a=b}
+) has zero eccentricity, and is a circle.  
+==== Semi-latus rectum ====
+The length of the chord through one focus, perpendicular to the major axis, is called the latus rectum. One half of it is the semi-latus rectum  
+ℓ  
+{\displaystyle \ell }
+. A calculation shows:
+The semi-latus rectum  
+ℓ  
+{\displaystyle \ell }
+is equal to the radius of curvature at the vertices (see section curvature).  
+=== Tangent ===
+An arbitrary line  
+g  
+{\displaystyle g}
+intersects an ellipse at 0, 1, or 2 points, respectively called an exterior line, tangent and secant. Through any point of an ellipse there is a unique tangent. The tangent at a point  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},\,y_{1})}
+of the ellipse  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+has the coordinate equation:  
+A vector parametric equation of the tangent is:  
+Proof:
+Let  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},\,y_{1})}
+be a point on an ellipse and  
+x
+→  
+=  
+(  
+x  
+1  
+y  
+1  
+)  
++
+s  
+(  
+u  
+v  
+)  
+{\textstyle {\vec {x}}={\begin{pmatrix}x_{1}\\y_{1}\end{pmatrix}}+s{\begin{pmatrix}u\\v\end{pmatrix}}}
+be the equation of any line  
+g  
+{\displaystyle g}
+containing  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},\,y_{1})}
+. Inserting the line's equation into the ellipse equation and respecting  
+x  
+1  
+2  
+a  
+2  
++  
+y  
+1  
+2  
+b  
+2  
+=
+1  
+{\textstyle {\frac {x_{1}^{2}}{a^{2}}}+{\frac {y_{1}^{2}}{b^{2}}}=1}
+yields:  
+There are then cases:  
+x  
+1  
+a  
+2  
+u
++  
+y  
+1"|461de35f4cfe2e9b5af26d110674713d|https://en.wikipedia.org/wiki/Ellipse
+37|"x  
+1  
+2  
+a  
+2  
++  
+y  
+1  
+2  
+b  
+2  
+=
+1  
+{\textstyle {\frac {x_{1}^{2}}{a^{2}}}+{\frac {y_{1}^{2}}{b^{2}}}=1}
+yields:  
+There are then cases:  
+x  
+1  
+a  
+2  
+u
++  
+y  
+1  
+b  
+2  
+v
+=
+0.  
+{\displaystyle {\frac {x_{1}}{a^{2}}}u+{\frac {y_{1}}{b^{2}}}v=0.}
+Then line  
+g  
+{\displaystyle g}
+and the ellipse have only point  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},\,y_{1})}
+in common, and  
+g  
+{\displaystyle g}
+is a tangent. The tangent direction has perpendicular vector  
+(  
+x  
+1  
+a  
+2  
+y  
+1  
+b  
+2  
+)  
+{\displaystyle {\begin{pmatrix}{\frac {x_{1}}{a^{2}}}&{\frac {y_{1}}{b^{2}}}\end{pmatrix}}}
+, so the tangent line has equation  
+x  
+1  
+a  
+2  
+x
++  
+y  
+1  
+b  
+2  
+y
+=
+k  
+{\textstyle {\frac {x_{1}}{a^{2}}}x+{\tfrac {y_{1}}{b^{2}}}y=k}
+for some  
+k  
+{\displaystyle k}
+. Because  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},\,y_{1})}
+is on the tangent and the ellipse, one obtains  
+k
+=
+1  
+{\displaystyle k=1}
+.  
+x  
+1  
+a  
+2  
+u
++  
+y  
+1  
+b  
+2  
+v
+≠
+0.  
+{\displaystyle {\frac {x_{1}}{a^{2}}}u+{\frac {y_{1}}{b^{2}}}v\neq 0.}
+Then line  
+g  
+{\displaystyle g}
+has a second point in common with the ellipse, and is a secant.Using (1) one finds that  
+(  
+−  
+y  
+1  
+a  
+2  
+x  
+1  
+b  
+2  
+)  
+{\displaystyle {\begin{pmatrix}-y_{1}a^{2}&x_{1}b^{2}\end{pmatrix}}}
+is a tangent vector at point  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},\,y_{1})}
+, which proves the vector equation.
+If  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle (x_{1},y_{1})}
+and  
+(
+u
+,
+v
+)  
+{\displaystyle (u,v)}
+are two points of the ellipse such that  
+x  
+1  
+u  
+a  
+2  
++  
+y  
+1  
+v  
+b  
+2  
+=
+0  
+{\textstyle {\frac {x_{1}u}{a^{2}}}+{\tfrac {y_{1}v}{b^{2}}}=0}
+, then the points lie on two conjugate diameters (see below). (If  
+a
+=
+b  
+{\displaystyle a=b}
+, the ellipse is a circle and ""conjugate"" means ""orthogonal"".)  
+=== Shifted ellipse ===
+If the standard ellipse is shifted to have center  
+(  
+x  
+∘  
+,  
+y  
+∘  
+)"|7fa4c3bd6a1066e80a794d2264a88f87|https://en.wikipedia.org/wiki/Ellipse
+38|"a
+=
+b  
+{\displaystyle a=b}
+, the ellipse is a circle and ""conjugate"" means ""orthogonal"".)  
+=== Shifted ellipse ===
+If the standard ellipse is shifted to have center  
+(  
+x  
+∘  
+,  
+y  
+∘  
+)  
+{\displaystyle \left(x_{\circ },\,y_{\circ }\right)}
+, its equation is  
+The axes are still parallel to the x- and y-axes.  
+=== General ellipse ===  
+In analytic geometry, the ellipse is defined as a quadric: the set of points  
+(
+x
+,  
+y
+)  
+{\displaystyle (x,\,y)}
+of the Cartesian plane that, in non-degenerate cases, satisfy the implicit equation
+provided  
+B  
+2  
+−
+4
+A
+C
+<
+0.  
+{\displaystyle B^{2}-4AC<0.}  
+To distinguish the degenerate cases from the non-degenerate case, let ∆ be the determinant  
+Then the ellipse is a non-degenerate real ellipse if and only if C∆ < 0. If C∆ > 0, we have an imaginary ellipse, and if ∆ = 0, we have a point ellipse.: 63 The general equation's coefficients can be obtained from known semi-major axis  
+a  
+{\displaystyle a}
+, semi-minor axis  
+b  
+{\displaystyle b}
+, center coordinates  
+(  
+x  
+∘  
+,  
+y  
+∘  
+)  
+{\displaystyle \left(x_{\circ },\,y_{\circ }\right)}
+, and rotation angle  
+θ  
+{\displaystyle \theta }
+(the angle from the positive horizontal axis to the ellipse's major axis) using the formulae:  
+These expressions can be derived from the canonical equation  
+by a Euclidean transformation of the coordinates  
+(
+X
+,  
+Y
+)  
+{\displaystyle (X,\,Y)}
+:  
+Conversely, the canonical form parameters can be obtained from the general-form coefficients by the equations:
+where atan2 is the 2-argument arctangent function."|94a3c9ffaf61850b9357f1cb69b11dce|https://en.wikipedia.org/wiki/Ellipse
+39|"=== Standard parametric representation ===
+Using trigonometric functions, a parametric representation of the standard ellipse  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+is:  
+The parameter t (called the eccentric anomaly in astronomy) is not the angle of  
+(
+x
+(
+t
+)
+,
+y
+(
+t
+)
+)  
+{\displaystyle (x(t),y(t))}
+with the x-axis, but has a geometric meaning due to Philippe de La Hire (see § Drawing ellipses below).  
+=== Rational representation ===
+With the substitution  
+u
+=
+tan
+⁡  
+(  
+t
+2  
+)  
+{\textstyle u=\tan \left({\frac {t}{2}}\right)}
+and trigonometric formulae one obtains  
+and the rational parametric equation of an ellipse  
+which covers any point of the ellipse  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+except the left vertex  
+(
+−
+a
+,  
+0
+)  
+{\displaystyle (-a,\,0)}
+.
+For  
+u
+∈
+[
+0
+,  
+1
+]
+,  
+{\displaystyle u\in [0,\,1],}
+this formula represents the right upper quarter of the ellipse moving counter-clockwise with increasing  
+u
+.  
+{\displaystyle u.}
+The left vertex is the limit  
+lim  
+u
+→
+±
+∞  
+(
+x
+(
+u
+)
+,  
+y
+(
+u
+)
+)
+=
+(
+−
+a
+,  
+0
+)  
+.  
+{\textstyle \lim _{u\to \pm \infty }(x(u),\,y(u))=(-a,\,0)\;.}  
+Alternately, if the parameter  
+[
+u
+:
+v
+]  
+{\displaystyle [u:v]}
+is considered to be a point on the real projective line  
+P  
+(  
+R  
+)  
+{\textstyle \mathbf {P} (\mathbf {R} )}
+, then the corresponding rational parametrization is  
+Then  
+[
+1
+:
+0
+]
+↦
+(
+−
+a
+,  
+0
+)
+.  
+{\textstyle [1:0]\mapsto (-a,\,0).}  
+Rational representations of conic sections are commonly used in computer-aided design (see Bezier curve).  
+=== Tangent slope as parameter ===
+A parametric representation, which uses the slope  
+m  
+{\displaystyle m}
+of the tangent at a point of the ellipse
+can be obtained from the derivative of the standard representation  
+x
+→  
+(
+t
+)
+=
+(
+a
+cos
+⁡
+t
+,  
+b
+sin
+⁡
+t  
+)  
+T"|a393b1a45217a23a527894171fb7c303|https://en.wikipedia.org/wiki/Ellipse
+40|"m  
+{\displaystyle m}
+of the tangent at a point of the ellipse
+can be obtained from the derivative of the standard representation  
+x
+→  
+(
+t
+)
+=
+(
+a
+cos
+⁡
+t
+,  
+b
+sin
+⁡
+t  
+)  
+T  
+{\displaystyle {\vec {x}}(t)=(a\cos t,\,b\sin t)^{\mathsf {T}}}
+:  
+With help of trigonometric formulae one obtains:  
+Replacing  
+cos
+⁡
+t  
+{\displaystyle \cos t}
+and  
+sin
+⁡
+t  
+{\displaystyle \sin t}
+of the standard representation yields:  
+Here  
+m  
+{\displaystyle m}
+is the slope of the tangent at the corresponding ellipse point,  
+c
+→  
++  
+{\displaystyle {\vec {c}}_{+}}
+is the upper and  
+c
+→  
+−  
+{\displaystyle {\vec {c}}_{-}}
+the lower half of the ellipse. The vertices  
+(
+±
+a
+,  
+0
+)  
+{\displaystyle (\pm a,\,0)}
+, having vertical tangents, are not covered by the representation.
+The equation of the tangent at point  
+c
+→  
+±  
+(
+m
+)  
+{\displaystyle {\vec {c}}_{\pm }(m)}
+has the form  
+y
+=
+m
+x
++
+n  
+{\displaystyle y=mx+n}
+. The still unknown  
+n  
+{\displaystyle n}
+can be determined by inserting the coordinates of the corresponding ellipse point  
+c
+→  
+±  
+(
+m
+)  
+{\displaystyle {\vec {c}}_{\pm }(m)}
+:  
+This description of the tangents of an ellipse is an essential tool for the determination of the orthoptic of an ellipse. The orthoptic article contains another proof, without differential calculus and trigonometric formulae.  
+=== General ellipse ===
+Another definition of an ellipse uses affine transformations:  
+Any ellipse is an affine image of the unit circle with equation  
+x  
+2  
++  
+y  
+2  
+=
+1  
+{\displaystyle x^{2}+y^{2}=1}
+.Parametric representationAn affine transformation of the Euclidean plane has the form  
+x
+→  
+↦  
+f
+→  
+0  
++
+A  
+x
+→  
+{\displaystyle {\vec {x}}\mapsto {\vec {f}}\!_{0}+A{\vec {x}}}
+, where  
+A  
+{\displaystyle A}
+is a regular matrix (with non-zero determinant) and  
+f
+→  
+0  
+{\displaystyle {\vec {f}}\!_{0}}
+is an arbitrary vector. If  
+f
+→  
+1  
+,  
+f
+→  
+2  
+{\displaystyle {\vec {f}}\!_{1},{\vec {f}}\!_{2}}"|94f4e96c48faea581a576716ee62c717|https://en.wikipedia.org/wiki/Ellipse
+41|"is a regular matrix (with non-zero determinant) and  
+f
+→  
+0  
+{\displaystyle {\vec {f}}\!_{0}}
+is an arbitrary vector. If  
+f
+→  
+1  
+,  
+f
+→  
+2  
+{\displaystyle {\vec {f}}\!_{1},{\vec {f}}\!_{2}}
+are the column vectors of the matrix  
+A  
+{\displaystyle A}
+, the unit circle  
+(
+cos
+⁡
+(
+t
+)
+,
+sin
+⁡
+(
+t
+)
+)  
+{\displaystyle (\cos(t),\sin(t))}
+,  
+0
+≤
+t
+≤
+2
+π  
+{\displaystyle 0\leq t\leq 2\pi }
+, is mapped onto the ellipse:  
+Here  
+f
+→  
+0  
+{\displaystyle {\vec {f}}\!_{0}}
+is the center and  
+f
+→  
+1  
+,  
+f
+→  
+2  
+{\displaystyle {\vec {f}}\!_{1},\;{\vec {f}}\!_{2}}
+are the directions of two conjugate diameters, in general not perpendicular.  
+VerticesThe four vertices of the ellipse are  
+p
+→  
+(  
+t  
+0  
+)
+,  
+p
+→  
+(  
+t  
+0  
+±  
+π
+2  
+)  
+,  
+p
+→  
+(  
+t  
+0  
++
+π  
+)  
+{\displaystyle {\vec {p}}(t_{0}),\;{\vec {p}}\left(t_{0}\pm {\tfrac {\pi }{2}}\right),\;{\vec {p}}\left(t_{0}+\pi \right)}
+, for a parameter  
+t
+=  
+t  
+0  
+{\displaystyle t=t_{0}}
+defined by:  
+(If  
+f
+→  
+1  
+⋅  
+f
+→  
+2  
+=
+0  
+{\displaystyle {\vec {f}}\!_{1}\cdot {\vec {f}}\!_{2}=0}
+, then  
+t  
+0  
+=
+0  
+{\displaystyle t_{0}=0}
+.) This is derived as follows. The tangent vector at point  
+p
+→  
+(
+t
+)  
+{\displaystyle {\vec {p}}(t)}
+is:  
+At a vertex parameter  
+t
+=  
+t  
+0  
+{\displaystyle t=t_{0}}
+, the tangent is perpendicular to the major/minor axes, so:  
+Expanding and applying the identities  
+cos  
+2  
+⁡
+t
+−  
+sin  
+2  
+⁡
+t
+=
+cos
+⁡
+2
+t
+,  
+2
+sin
+⁡
+t
+cos
+⁡
+t
+=
+sin
+⁡
+2
+t  
+{\displaystyle \;\cos ^{2}t-\sin ^{2}t=\cos 2t,\ \ 2\sin t\cos t=\sin 2t\;}
+gives the equation for  
+t
+=  
+t  
+0  
+.  
+{\displaystyle t=t_{0}\;.}  
+AreaFrom Apollonios theorem (see below) one obtains:
+The area of an ellipse  
+x
+→  
+=  
+f
+→  
+0  
++  
+f
+→  
+1  
+cos
+⁡
+t
++  
+f
+→  
+2  
+sin
+⁡
+t  
+{\displaystyle \;{\vec {x}}={\vec {f}}_{0}+{\vec {f}}_{1}\cos t+{\vec {f}}_{2}\sin t\;}
+is  
+SemiaxesWith the abbreviations  
+M
+=  
+f
+→  
+1  
+2  
++  
+f
+→  
+2  
+2  
+,  
+N
+=  
+|  
+det
+(  
+f
+→  
+1  
+,  
+f
+→  
+2  
+)  
+|"|aad11966e934ac157b3cfb53731c4ec3|https://en.wikipedia.org/wiki/Ellipse
+42|"is  
+SemiaxesWith the abbreviations  
+M
+=  
+f
+→  
+1  
+2  
++  
+f
+→  
+2  
+2  
+,  
+N
+=  
+|  
+det
+(  
+f
+→  
+1  
+,  
+f
+→  
+2  
+)  
+|  
+{\displaystyle \;M={\vec {f}}_{1}^{2}+{\vec {f}}_{2}^{2},\ N=\left|\det({\vec {f}}_{1},{\vec {f}}_{2})\right|}
+the statements of Apollonios's theorem can be written as:  
+Solving this nonlinear system for  
+a
+,
+b  
+{\displaystyle a,b}
+yields the semiaxes:  
+Implicit representationSolving the parametric representation for  
+cos
+⁡
+t
+,
+sin
+⁡
+t  
+{\displaystyle \;\cos t,\sin t\;}
+by Cramer's rule and using  
+cos  
+2  
+⁡
+t
++  
+sin  
+2  
+⁡
+t
+−
+1
+=
+0  
+{\displaystyle \;\cos ^{2}t+\sin ^{2}t-1=0\;}
+, one obtains the implicit representation  
+Conversely: If the equation  
+x  
+2  
++
+2
+c
+x
+y
++  
+d  
+2  
+y  
+2  
+−  
+e  
+2  
+=
+0  
+,  
+{\displaystyle x^{2}+2cxy+d^{2}y^{2}-e^{2}=0\ ,}
+with  
+d  
+2  
+−  
+c  
+2  
+>
+0  
+,  
+{\displaystyle \;d^{2}-c^{2}>0\;,}
+of an ellipse centered at the origin is given, then the two vectors  
+point to two conjugate points and the tools developed above are applicable.
+Example: For the ellipse with equation  
+x  
+2  
++
+2
+x
+y
++
+3  
+y  
+2  
+−
+1
+=
+0  
+{\displaystyle \;x^{2}+2xy+3y^{2}-1=0\;}
+the vectors are  
+Rotated Standard ellipseFor  
+f
+→  
+0  
+=  
+(  
+0
+0  
+)  
+,  
+f
+→  
+1  
+=
+a  
+(  
+cos
+⁡
+θ  
+sin
+⁡
+θ  
+)  
+,  
+f
+→  
+2  
+=
+b  
+(  
+−
+sin
+⁡
+θ  
+cos
+⁡
+θ  
+)  
+{\displaystyle {\vec {f}}_{0}={0 \choose 0},\;{\vec {f}}_{1}=a{\cos \theta  \choose \sin \theta },\;{\vec {f}}_{2}=b{-\sin \theta  \choose \;\cos \theta }}
+one obtains a parametric representation of the standard ellipse rotated by angle  
+θ  
+{\displaystyle \theta }
+:  
+Ellipse in spaceThe definition of an ellipse in this section gives a parametric representation of an arbitrary ellipse, even in space, if one allows  
+f
+→  
+0  
+,  
+f
+→  
+1  
+,  
+f
+→  
+2  
+{\displaystyle {\vec {f}}\!_{0},{\vec {f}}\!_{1},{\vec {f}}\!_{2}}
+to be vectors in space."|f05e4f6655b4e6747f6533a72212b031|https://en.wikipedia.org/wiki/Ellipse
+43|"=== Polar form relative to center ===
+In polar coordinates, with the origin at the center of the ellipse and with the angular coordinate  
+θ  
+{\displaystyle \theta }
+measured from the major axis, the ellipse's equation is: 75
+where  
+e  
+{\displaystyle e}
+is the eccentricity, not Euler's number.  
+=== Polar form relative to focus ===
+If instead we use polar coordinates with the origin at one focus, with the angular coordinate  
+θ
+=
+0  
+{\displaystyle \theta =0}
+still measured from the major axis, the ellipse's equation is  
+where the sign in the denominator is negative if the reference direction  
+θ
+=
+0  
+{\displaystyle \theta =0}
+points towards the center (as illustrated on the right), and positive if that direction points away from the center.
+In the slightly more general case of an ellipse with one focus at the origin and the other focus at angular coordinate  
+ϕ  
+{\displaystyle \phi }
+, the polar form is  
+The angle  
+θ  
+{\displaystyle \theta }
+in these formulas is called the true anomaly of the point. The numerator of these formulas is the semi-latus rectum  
+ℓ
+=
+a
+(
+1
+−  
+e  
+2  
+)  
+{\displaystyle \ell =a(1-e^{2})}
+."|42d38545154f0ee6cdcbd75aef450333|https://en.wikipedia.org/wiki/Ellipse
+44|"Each of the two lines parallel to the minor axis, and at a distance of  
+d
+=  
+a  
+2  
+c  
+=  
+a
+e  
+{\textstyle d={\frac {a^{2}}{c}}={\frac {a}{e}}}
+from it, is called a directrix of the ellipse (see diagram).  
+For an arbitrary point  
+P  
+{\displaystyle P}
+of the ellipse, the quotient of the distance to one focus and to the corresponding directrix (see diagram) is equal to the eccentricity: The proof for the pair  
+F  
+1  
+,  
+l  
+1  
+{\displaystyle F_{1},l_{1}}
+follows from the fact that  
+|  
+P  
+F  
+1  
+|  
+2  
+=
+(
+x
+−
+c  
+)  
+2  
++  
+y  
+2  
+,  
+|  
+P  
+l  
+1  
+|  
+2  
+=  
+(  
+x
+−  
+a  
+2  
+c  
+)  
+2  
+{\textstyle \left|PF_{1}\right|^{2}=(x-c)^{2}+y^{2},\ \left|Pl_{1}\right|^{2}=\left(x-{\tfrac {a^{2}}{c}}\right)^{2}}
+and  
+y  
+2  
+=  
+b  
+2  
+−  
+b  
+2  
+a  
+2  
+x  
+2  
+{\displaystyle y^{2}=b^{2}-{\tfrac {b^{2}}{a^{2}}}x^{2}}
+satisfy the equation  
+The second case is proven analogously.
+The converse is also true and can be used to define an ellipse (in a manner similar to the definition of a parabola):  
+For any point  
+F  
+{\displaystyle F}
+(focus), any line  
+l  
+{\displaystyle l}
+(directrix) not through  
+F  
+{\displaystyle F}
+, and any real number  
+e  
+{\displaystyle e}
+with  
+0
+<
+e
+<
+1
+,  
+{\displaystyle 0<e<1,}
+the ellipse is the locus of points for which the quotient of the distances to the point and to the line is  
+e
+,  
+{\displaystyle e,}
+that is: The extension to  
+e
+=
+0  
+{\displaystyle e=0}
+, which is the eccentricity of a circle, is not allowed in this context in the Euclidean plane. However, one may consider the directrix of a circle to be the line at infinity in the projective plane.
+(The choice  
+e
+=
+1  
+{\displaystyle e=1}
+yields a parabola, and if  
+e
+>
+1  
+{\displaystyle e>1}
+, a hyperbola.)  
+ProofLet  
+F
+=
+(
+f
+,  
+0
+)
+,  
+e
+>
+0  
+{\displaystyle F=(f,\,0),\ e>0}
+, and assume  
+(
+0
+,  
+0
+)  
+{\displaystyle (0,\,0)}
+is a point on the curve. The directrix  
+l  
+{\displaystyle l}
+has equation  
+x
+=
+−  
+f
+e"|e3275e9426f0d6f6ea2be02870e0aa05|https://en.wikipedia.org/wiki/Ellipse
+45|"f
+,  
+0
+)
+,  
+e
+>
+0  
+{\displaystyle F=(f,\,0),\ e>0}
+, and assume  
+(
+0
+,  
+0
+)  
+{\displaystyle (0,\,0)}
+is a point on the curve. The directrix  
+l  
+{\displaystyle l}
+has equation  
+x
+=
+−  
+f
+e  
+{\displaystyle x=-{\tfrac {f}{e}}}
+. With  
+P
+=
+(
+x
+,  
+y
+)  
+{\displaystyle P=(x,\,y)}
+, the relation  
+|  
+P
+F  
+|  
+2  
+=  
+e  
+2  
+|  
+P
+l  
+|  
+2  
+{\displaystyle |PF|^{2}=e^{2}|Pl|^{2}}
+produces the equations  
+(
+x
+−
+f  
+)  
+2  
++  
+y  
+2  
+=  
+e  
+2  
+(  
+x
++  
+f
+e  
+)  
+2  
+=
+(
+e
+x
++
+f  
+)  
+2  
+{\displaystyle (x-f)^{2}+y^{2}=e^{2}\left(x+{\frac {f}{e}}\right)^{2}=(ex+f)^{2}}
+and  
+x  
+2  
+(  
+e  
+2  
+−
+1  
+)  
++
+2
+x
+f
+(
+1
++
+e
+)
+−  
+y  
+2  
+=
+0.  
+{\displaystyle x^{2}\left(e^{2}-1\right)+2xf(1+e)-y^{2}=0.}
+The substitution  
+p
+=
+f
+(
+1
++
+e
+)  
+{\displaystyle p=f(1+e)}
+yields  
+This is the equation of an ellipse (  
+e
+<
+1  
+{\displaystyle e<1}
+), or a parabola (  
+e
+=
+1  
+{\displaystyle e=1}
+), or a hyperbola (  
+e
+>
+1  
+{\displaystyle e>1}
+). All of these non-degenerate conics have, in common, the origin as a vertex (see diagram).
+If  
+e
+<
+1  
+{\displaystyle e<1}
+, introduce new parameters  
+a
+,  
+b  
+{\displaystyle a,\,b}
+so that  
+1
+−  
+e  
+2  
+=  
+b  
+2  
+a  
+2  
+,  
+and  
+p
+=  
+b  
+2  
+a  
+{\displaystyle 1-e^{2}={\tfrac {b^{2}}{a^{2}}},{\text{ and }}\ p={\tfrac {b^{2}}{a}}}
+, and then the equation above becomes  
+which is the equation of an ellipse with center  
+(
+a
+,  
+0
+)  
+{\displaystyle (a,\,0)}
+, the x-axis as major axis, and
+the major/minor semi axis  
+a
+,  
+b  
+{\displaystyle a,\,b}
+.  
+Construction of a directrixBecause of  
+c
+⋅  
+a  
+2  
+c  
+=  
+a  
+2  
+{\displaystyle c\cdot {\tfrac {a^{2}}{c}}=a^{2}}
+point  
+L  
+1  
+{\displaystyle L_{1}}
+of directrix  
+l  
+1  
+{\displaystyle l_{1}}
+(see diagram) and focus  
+F  
+1  
+{\displaystyle F_{1}}
+are inverse with respect to the circle inversion at circle  
+x  
+2  
++  
+y  
+2  
+=  
+a  
+2  
+{\displaystyle x^{2}+y^{2}=a^{2}}
+(in diagram green). Hence  
+L  
+1  
+{\displaystyle L_{1}}"|c18bf776fcdaaf646828da55e267b405|https://en.wikipedia.org/wiki/Ellipse
+46|"are inverse with respect to the circle inversion at circle  
+x  
+2  
++  
+y  
+2  
+=  
+a  
+2  
+{\displaystyle x^{2}+y^{2}=a^{2}}
+(in diagram green). Hence  
+L  
+1  
+{\displaystyle L_{1}}
+can be constructed as shown in the diagram. Directrix  
+l  
+1  
+{\displaystyle l_{1}}
+is the perpendicular to the main axis at point  
+L  
+1  
+{\displaystyle L_{1}}
+.  
+General ellipseIf the focus is  
+F
+=  
+(  
+f  
+1  
+,  
+f  
+2  
+)  
+{\displaystyle F=\left(f_{1},\,f_{2}\right)}
+and the directrix  
+u
+x
++
+v
+y
++
+w
+=
+0  
+{\displaystyle ux+vy+w=0}
+, one obtains the equation  
+(The right side of the equation uses the Hesse normal form of a line to calculate the distance  
+|  
+P
+l  
+|  
+{\displaystyle |Pl|}
+.)"|ae2074f7cdc333b0bb019994e49f41ff|https://en.wikipedia.org/wiki/Ellipse
+47|"An ellipse possesses the following property:  
+The normal at a point  
+P  
+{\displaystyle P}
+bisects the angle between the lines  
+P  
+F  
+1  
+¯  
+,  
+P  
+F  
+2  
+¯  
+{\displaystyle {\overline {PF_{1}}},\,{\overline {PF_{2}}}}
+.ProofBecause the tangent line is perpendicular to the normal, an equivalent statement is that the tangent is the external angle bisector of the lines to the foci (see diagram).
+Let  
+L  
+{\displaystyle L}
+be the point on the line  
+P  
+F  
+2  
+¯  
+{\displaystyle {\overline {PF_{2}}}}
+with distance  
+2
+a  
+{\displaystyle 2a}
+to the focus  
+F  
+2  
+{\displaystyle F_{2}}
+, where  
+a  
+{\displaystyle a}
+is the semi-major axis of the ellipse. Let line  
+w  
+{\displaystyle w}
+be the external angle bisector of the lines  
+P  
+F  
+1  
+¯  
+{\displaystyle {\overline {PF_{1}}}}
+and  
+P  
+F  
+2  
+¯  
+.  
+{\displaystyle {\overline {PF_{2}}}.}
+Take any other point  
+Q  
+{\displaystyle Q}
+on  
+w
+.  
+{\displaystyle w.}
+By the triangle inequality and the angle bisector theorem,  
+2
+a
+=  
+|  
+L  
+F  
+2  
+|  
+<  
+{\displaystyle 2a=\left|LF_{2}\right|<{}}  
+|  
+Q  
+F  
+2  
+|  
++  
+|  
+Q
+L  
+|  
+=  
+{\displaystyle \left|QF_{2}\right|+\left|QL\right|={}}  
+|  
+Q  
+F  
+2  
+|  
++  
+|  
+Q  
+F  
+1  
+|  
+,  
+{\displaystyle \left|QF_{2}\right|+\left|QF_{1}\right|,}
+therefore  
+Q  
+{\displaystyle Q}
+must be outside the ellipse. As this is true for every choice of  
+Q
+,  
+{\displaystyle Q,}  
+w  
+{\displaystyle w}
+only intersects the ellipse at the single point  
+P  
+{\displaystyle P}
+so must be the tangent line.  
+ApplicationThe rays from one focus are reflected by the ellipse to the second focus. This property has optical and acoustic applications similar to the reflective property of a parabola (see whispering gallery)."|58777d7ecfac0ffbe5dea03187b706f5|https://en.wikipedia.org/wiki/Ellipse
+48|"=== Definition of conjugate diameters ===  
+A circle has the following property:  
+The midpoints of parallel chords lie on a diameter.An affine transformation preserves parallelism and midpoints of line segments, so this property is true for any ellipse. (Note that the parallel chords and the diameter are no longer orthogonal.)  
+Definition
+Two diameters  
+d  
+1  
+,  
+d  
+2  
+{\displaystyle d_{1},\,d_{2}}
+of an ellipse are conjugate if the midpoints of chords parallel to  
+d  
+1  
+{\displaystyle d_{1}}
+lie on  
+d  
+2  
+.  
+{\displaystyle d_{2}\ .}  
+From the diagram one finds:  
+Two diameters  
+P  
+1  
+Q  
+1  
+¯  
+,  
+P  
+2  
+Q  
+2  
+¯  
+{\displaystyle {\overline {P_{1}Q_{1}}},\,{\overline {P_{2}Q_{2}}}}
+of an ellipse are conjugate whenever the tangents at  
+P  
+1  
+{\displaystyle P_{1}}
+and  
+Q  
+1  
+{\displaystyle Q_{1}}
+are parallel to  
+P  
+2  
+Q  
+2  
+¯  
+{\displaystyle {\overline {P_{2}Q_{2}}}}
+.Conjugate diameters in an ellipse generalize orthogonal diameters in a circle.
+In the parametric equation for a general ellipse given above,  
+any pair of points  
+p
+→  
+(
+t
+)
+,  
+p
+→  
+(
+t
++
+π
+)  
+{\displaystyle {\vec {p}}(t),\ {\vec {p}}(t+\pi )}
+belong to a diameter, and the pair  
+p
+→  
+(  
+t
++  
+π
+2  
+)  
+,  
+p
+→  
+(  
+t
+−  
+π
+2  
+)  
+{\displaystyle {\vec {p}}\left(t+{\tfrac {\pi }{2}}\right),\ {\vec {p}}\left(t-{\tfrac {\pi }{2}}\right)}
+belong to its conjugate diameter.
+For the common parametric representation  
+(
+a
+cos
+⁡
+t
+,
+b
+sin
+⁡
+t
+)  
+{\displaystyle (a\cos t,b\sin t)}
+of the ellipse with equation  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+one gets: The points  
+(  
+x  
+1  
+,  
+y  
+1  
+)
+=
+(
+±
+a
+cos
+⁡
+t
+,
+±
+b
+sin
+⁡
+t
+)  
+{\displaystyle (x_{1},y_{1})=(\pm a\cos t,\pm b\sin t)\quad }
+(signs: (+,+) or (−,−) )  
+(  
+x  
+2  
+,  
+y  
+2  
+)
+=
+(  
+∓  
+a
+sin
+⁡
+t
+,
+±
+b
+cos
+⁡
+t
+)  
+{\displaystyle (x_{2},y_{2})=({\color {red}{\mp }}a\sin t,\pm b\cos t)\quad }
+(signs: (−,+) or (+,−) )
+are conjugate and"|94205fa4f0b2873286448a9fa3caaed3|https://en.wikipedia.org/wiki/Ellipse
+49|"(  
+x  
+2  
+,  
+y  
+2  
+)
+=
+(  
+∓  
+a
+sin
+⁡
+t
+,
+±
+b
+cos
+⁡
+t
+)  
+{\displaystyle (x_{2},y_{2})=({\color {red}{\mp }}a\sin t,\pm b\cos t)\quad }
+(signs: (−,+) or (+,−) )
+are conjugate and  
+x  
+1  
+x  
+2  
+a  
+2  
++  
+y  
+1  
+y  
+2  
+b  
+2  
+=
+0  
+.  
+{\displaystyle {\frac {x_{1}x_{2}}{a^{2}}}+{\frac {y_{1}y_{2}}{b^{2}}}=0\ .}
+In case of a circle the last equation collapses to  
+x  
+1  
+x  
+2  
++  
+y  
+1  
+y  
+2  
+=
+0  
+.  
+{\displaystyle x_{1}x_{2}+y_{1}y_{2}=0\ .}  
+=== Theorem of Apollonios on conjugate diameters ===
+For an ellipse with semi-axes  
+a
+,  
+b  
+{\displaystyle a,\,b}
+the following is true:
+Let  
+c  
+1  
+{\displaystyle c_{1}}
+and  
+c  
+2  
+{\displaystyle c_{2}}
+be halves of two conjugate diameters (see diagram) then  
+c  
+1  
+2  
++  
+c  
+2  
+2  
+=  
+a  
+2  
++  
+b  
+2  
+{\displaystyle c_{1}^{2}+c_{2}^{2}=a^{2}+b^{2}}
+.
+The triangle  
+O
+,  
+P  
+1  
+,  
+P  
+2  
+{\displaystyle O,P_{1},P_{2}}
+with sides  
+c  
+1  
+,  
+c  
+2  
+{\displaystyle c_{1},\,c_{2}}
+(see diagram) has the constant area  
+A  
+Δ  
+=  
+1
+2  
+a
+b  
+{\textstyle A_{\Delta }={\frac {1}{2}}ab}
+, which can be expressed by  
+A  
+Δ  
+=  
+1
+2  
+c  
+2  
+d  
+1  
+=  
+1
+2  
+c  
+1  
+c  
+2  
+sin
+⁡
+α  
+{\displaystyle A_{\Delta }={\tfrac {1}{2}}c_{2}d_{1}={\tfrac {1}{2}}c_{1}c_{2}\sin \alpha }
+, too.  
+d  
+1  
+{\displaystyle d_{1}}
+is the altitude of point  
+P  
+1  
+{\displaystyle P_{1}}
+and  
+α  
+{\displaystyle \alpha }
+the angle between the half diameters. Hence the area of the ellipse (see section metric properties) can be written as  
+A  
+e
+l  
+=
+π
+a
+b
+=
+π  
+c  
+2  
+d  
+1  
+=
+π  
+c  
+1  
+c  
+2  
+sin
+⁡
+α  
+{\displaystyle A_{el}=\pi ab=\pi c_{2}d_{1}=\pi c_{1}c_{2}\sin \alpha }
+.
+The parallelogram of tangents adjacent to the given conjugate diameters has the  
+Area  
+12  
+=
+4
+a
+b  
+.  
+{\displaystyle {\text{Area}}_{12}=4ab\ .}
+Proof
+Let the ellipse be in the canonical form with parametric equation  
+The two points  
+c
+→  
+1  
+=  
+p
+→  
+(
+t
+)
+,  
+c
+→  
+2  
+=  
+p
+→  
+(  
+t
++  
+π
+2  
+)"|76c4e90ab8e48b6835331a52e4814220|https://en.wikipedia.org/wiki/Ellipse
+50|"Proof
+Let the ellipse be in the canonical form with parametric equation  
+The two points  
+c
+→  
+1  
+=  
+p
+→  
+(
+t
+)
+,  
+c
+→  
+2  
+=  
+p
+→  
+(  
+t
++  
+π
+2  
+)  
+{\textstyle {\vec {c}}_{1}={\vec {p}}(t),\ {\vec {c}}_{2}={\vec {p}}\left(t+{\frac {\pi }{2}}\right)}
+are on conjugate diameters (see previous section). From trigonometric formulae one obtains  
+c
+→  
+2  
+=
+(
+−
+a
+sin
+⁡
+t
+,  
+b
+cos
+⁡
+t  
+)  
+T  
+{\displaystyle {\vec {c}}_{2}=(-a\sin t,\,b\cos t)^{\mathsf {T}}}
+and  
+The area of the triangle generated by  
+c
+→  
+1  
+,  
+c
+→  
+2  
+{\displaystyle {\vec {c}}_{1},\,{\vec {c}}_{2}}
+is  
+and from the diagram it can be seen that the area of the parallelogram is 8 times that of  
+A  
+Δ  
+{\displaystyle A_{\Delta }}
+. Hence"|c78d2ecf70d07403d7f941a270a870c7|https://en.wikipedia.org/wiki/Ellipse
+51|"For the ellipse  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+the intersection points of orthogonal tangents lie on the circle  
+x  
+2  
++  
+y  
+2  
+=  
+a  
+2  
++  
+b  
+2  
+{\displaystyle x^{2}+y^{2}=a^{2}+b^{2}}
+.
+This circle is called orthoptic or director circle of the ellipse (not to be confused with the circular directrix defined above)."|cbef64ec5fb6aff6c4803cc5f0e87037|https://en.wikipedia.org/wiki/Ellipse
+52|"Ellipses appear in descriptive geometry as images (parallel or central projection) of circles. There exist various tools to draw an ellipse. Computers provide the fastest and most accurate method for drawing an ellipse. However, technical tools (ellipsographs) to draw an ellipse without a computer exist. The principle of ellipsographs were known to Greek mathematicians such as Archimedes and Proklos.
+If there is no ellipsograph available, one can draw an ellipse using an approximation by the four osculating circles at the vertices.
+For any method described below, knowledge of the axes and the semi-axes is necessary (or equivalently: the foci and the semi-major axis). If this presumption is not fulfilled one has to know at least two conjugate diameters. With help of Rytz's construction the axes and semi-axes can be retrieved.  
+=== de La Hire's point construction ===
+The following construction of single points of an ellipse is due to de La Hire.  It is based on the standard parametric representation  
+(
+a
+cos
+⁡
+t
+,  
+b
+sin
+⁡
+t
+)  
+{\displaystyle (a\cos t,\,b\sin t)}
+of an ellipse:  
+Draw the two circles centered at the center of the ellipse with radii  
+a
+,
+b  
+{\displaystyle a,b}
+and the axes of the ellipse.
+Draw a line through the center, which intersects the two circles at point  
+A  
+{\displaystyle A}
+and  
+B  
+{\displaystyle B}
+, respectively.
+Draw a line through  
+A  
+{\displaystyle A}
+that is parallel to the minor axis and a line through  
+B  
+{\displaystyle B}
+that is parallel to the major axis. These lines meet at an ellipse point (see diagram).
+Repeat steps (2) and (3) with different lines through the center.  
+=== Pins-and-string method ==="|8a672b8d577575bf78121448507d351c|https://en.wikipedia.org/wiki/Ellipse
+53|"that is parallel to the major axis. These lines meet at an ellipse point (see diagram).
+Repeat steps (2) and (3) with different lines through the center.  
+=== Pins-and-string method ===
+The characterization of an ellipse as the locus of points so that sum of the distances to the foci is constant leads to a method of drawing one using two drawing pins, a length of string, and a pencil. In this method, pins are pushed into the paper at two points, which become the ellipse's foci. A string is tied at each end to the two pins; its length after tying is  
+2
+a  
+{\displaystyle 2a}
+. The tip of the pencil then traces an ellipse if it is moved while keeping the string taut. Using two pegs and a rope, gardeners use this procedure to outline an elliptical flower bed—thus it is called the gardener's ellipse.
+A similar method for drawing confocal ellipses with a closed string is due to the Irish bishop Charles Graves.  
+=== Paper strip methods ===
+The two following methods rely on the parametric representation (see § Standard parametric representation, above):  
+This representation can be modeled technically by two simple methods. In both cases center, the axes and semi axes  
+a
+,  
+b  
+{\displaystyle a,\,b}
+have to be known.  
+Method 1The first method starts with  
+a strip of paper of length  
+a
++
+b  
+{\displaystyle a+b}
+.The point, where the semi axes meet is marked by  
+P  
+{\displaystyle P}
+. If the strip slides with both ends on the axes of the desired ellipse, then point  
+P  
+{\displaystyle P}
+traces the ellipse. For the proof one shows that point  
+P  
+{\displaystyle P}
+has the parametric representation  
+(
+a
+cos
+⁡
+t
+,  
+b
+sin
+⁡
+t
+)  
+{\displaystyle (a\cos t,\,b\sin t)}
+, where parameter  
+t  
+{\displaystyle t}
+is the angle of the slope of the paper strip.
+A technical realization of the motion of the paper strip can be achieved by a Tusi couple (see animation). The device is able to draw any ellipse with a fixed sum  
+a
++
+b  
+{\displaystyle a+b}"|219b71731be8d07e9204b64c159faca3|https://en.wikipedia.org/wiki/Ellipse
+54|"A technical realization of the motion of the paper strip can be achieved by a Tusi couple (see animation). The device is able to draw any ellipse with a fixed sum  
+a
++
+b  
+{\displaystyle a+b}
+, which is the radius of the large circle. This restriction may be a disadvantage in real life. More flexible is the second paper strip method.  
+A variation of the paper strip method 1 uses the observation that the midpoint  
+N  
+{\displaystyle N}
+of the paper strip is moving on the circle with center  
+M  
+{\displaystyle M}
+(of the ellipse) and radius  
+a
++
+b  
+2  
+{\displaystyle {\tfrac {a+b}{2}}}
+. Hence, the paperstrip can be cut at point  
+N  
+{\displaystyle N}
+into halves, connected again by a joint at  
+N  
+{\displaystyle N}
+and the sliding end  
+K  
+{\displaystyle K}
+fixed at the center  
+M  
+{\displaystyle M}
+(see diagram). After this operation the movement of the unchanged half of the paperstrip is unchanged. This variation requires only one sliding shoe.  
+Method 2
+The second method starts with  
+a strip of paper of length  
+a  
+{\displaystyle a}
+.One marks the point, which divides the strip into two substrips of length  
+b  
+{\displaystyle b}
+and  
+a
+−
+b  
+{\displaystyle a-b}
+. The strip is positioned onto the axes as described in the diagram. Then the free end of the strip traces an ellipse, while the strip is moved. For the proof, one recognizes that the tracing point can be described parametrically by  
+(
+a
+cos
+⁡
+t
+,  
+b
+sin
+⁡
+t
+)  
+{\displaystyle (a\cos t,\,b\sin t)}
+, where parameter  
+t  
+{\displaystyle t}
+is the angle of slope of the paper strip.
+This method is the base for several ellipsographs (see section below).
+Similar to the variation of the paper strip method 1 a variation of the paper strip method 2 can be established (see diagram) by cutting the part between the axes into halves.  
+Most ellipsograph drafting instruments are based on the second paperstrip method.  
+=== Approximation by osculating circles ==="|26f117652412eafbf5b31d41d6f8f293|https://en.wikipedia.org/wiki/Ellipse
+55|"Most ellipsograph drafting instruments are based on the second paperstrip method.  
+=== Approximation by osculating circles ===
+From Metric properties below, one obtains:  
+The radius of curvature at the vertices  
+V  
+1  
+,  
+V  
+2  
+{\displaystyle V_{1},\,V_{2}}
+is:  
+b  
+2  
+a  
+{\displaystyle {\tfrac {b^{2}}{a}}}  
+The radius of curvature at the co-vertices  
+V  
+3  
+,  
+V  
+4  
+{\displaystyle V_{3},\,V_{4}}
+is:  
+a  
+2  
+b  
+.  
+{\displaystyle {\tfrac {a^{2}}{b}}\ .}
+The diagram shows an easy way to find the centers of curvature  
+C  
+1  
+=  
+(  
+a
+−  
+b  
+2  
+a  
+,
+0  
+)  
+,  
+C  
+3  
+=  
+(  
+0
+,
+b
+−  
+a  
+2  
+b  
+)  
+{\displaystyle C_{1}=\left(a-{\tfrac {b^{2}}{a}},0\right),\,C_{3}=\left(0,b-{\tfrac {a^{2}}{b}}\right)}
+at vertex  
+V  
+1  
+{\displaystyle V_{1}}
+and co-vertex  
+V  
+3  
+{\displaystyle V_{3}}
+, respectively:  
+mark the auxiliary point  
+H
+=
+(
+a
+,  
+b
+)  
+{\displaystyle H=(a,\,b)}
+and draw the line segment  
+V  
+1  
+V  
+3  
+,  
+{\displaystyle V_{1}V_{3}\ ,}  
+draw the line through  
+H  
+{\displaystyle H}
+, which is perpendicular to the line  
+V  
+1  
+V  
+3  
+,  
+{\displaystyle V_{1}V_{3}\ ,}  
+the intersection points of this line with the axes are the centers of the osculating circles.(proof: simple calculation.)
+The centers for the remaining vertices are found by symmetry.
+With help of a French curve one draws a curve, which has smooth contact to the osculating circles.  
+=== Steiner generation ===
+The following method to construct single points of an ellipse relies on the Steiner generation of a conic section:  
+Given two pencils  
+B
+(
+U
+)
+,  
+B
+(
+V
+)  
+{\displaystyle B(U),\,B(V)}
+of lines at two points  
+U
+,  
+V  
+{\displaystyle U,\,V}
+(all lines containing  
+U  
+{\displaystyle U}
+and  
+V  
+{\displaystyle V}
+, respectively) and a projective but not perspective mapping  
+π  
+{\displaystyle \pi }
+of  
+B
+(
+U
+)  
+{\displaystyle B(U)}
+onto  
+B
+(
+V
+)  
+{\displaystyle B(V)}"|ab1c653a1384f60f47fbd57ff9bb7613|https://en.wikipedia.org/wiki/Ellipse
+56|"and  
+V  
+{\displaystyle V}
+, respectively) and a projective but not perspective mapping  
+π  
+{\displaystyle \pi }
+of  
+B
+(
+U
+)  
+{\displaystyle B(U)}
+onto  
+B
+(
+V
+)  
+{\displaystyle B(V)}
+, then the intersection points of corresponding lines form a non-degenerate projective conic section.For the generation of points of the ellipse  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+one uses the pencils at the vertices  
+V  
+1  
+,  
+V  
+2  
+{\displaystyle V_{1},\,V_{2}}
+. Let  
+P
+=
+(
+0
+,  
+b
+)  
+{\displaystyle P=(0,\,b)}
+be an upper co-vertex of the ellipse and  
+A
+=
+(
+−
+a
+,  
+2
+b
+)
+,  
+B
+=
+(
+a
+,  
+2
+b
+)  
+{\displaystyle A=(-a,\,2b),\,B=(a,\,2b)}
+.  
+P  
+{\displaystyle P}
+is the center of the rectangle  
+V  
+1  
+,  
+V  
+2  
+,  
+B
+,  
+A  
+{\displaystyle V_{1},\,V_{2},\,B,\,A}
+. The side  
+A
+B  
+¯  
+{\displaystyle {\overline {AB}}}
+of the rectangle is divided into n equal spaced line segments and this division is projected parallel with the diagonal  
+A  
+V  
+2  
+{\displaystyle AV_{2}}
+as direction onto the line segment  
+V  
+1  
+B  
+¯  
+{\displaystyle {\overline {V_{1}B}}}
+and assign the division as shown in the diagram. The parallel projection together with the reverse of the orientation is part of the projective mapping between the pencils at  
+V  
+1  
+{\displaystyle V_{1}}
+and  
+V  
+2  
+{\displaystyle V_{2}}
+needed. The intersection points of any two related lines  
+V  
+1  
+B  
+i  
+{\displaystyle V_{1}B_{i}}
+and  
+V  
+2  
+A  
+i  
+{\displaystyle V_{2}A_{i}}
+are points of the uniquely defined ellipse. With help of the points  
+C  
+1  
+,  
+…  
+{\displaystyle C_{1},\,\dotsc }
+the points of the second quarter of the ellipse can be determined. Analogously one obtains the points of the lower half of the ellipse."|bf4a37afd37ced6998af9eb5fb8ffddb|https://en.wikipedia.org/wiki/Ellipse
+57|"C  
+1  
+,  
+…  
+{\displaystyle C_{1},\,\dotsc }
+the points of the second quarter of the ellipse can be determined. Analogously one obtains the points of the lower half of the ellipse.
+Steiner generation can also be defined for hyperbolas and parabolas. It is sometimes called a parallelogram method because one can use other points rather than the vertices, which starts with a parallelogram instead of a rectangle.  
+=== As hypotrochoid ===
+The ellipse is a special case of the hypotrochoid when  
+R
+=
+2
+r  
+{\displaystyle R=2r}
+, as shown in the adjacent image. The special case of a moving circle with radius  
+r  
+{\displaystyle r}
+inside a circle with radius  
+R
+=
+2
+r  
+{\displaystyle R=2r}
+is called a Tusi couple."|3851103517b6b50da241eec5ed1065ba|https://en.wikipedia.org/wiki/Ellipse
+58|"=== Circles ===
+A circle with equation  
+(  
+x
+−  
+x  
+∘  
+)  
+2  
++  
+(  
+y
+−  
+y  
+∘  
+)  
+2  
+=  
+r  
+2  
+{\displaystyle \left(x-x_{\circ }\right)^{2}+\left(y-y_{\circ }\right)^{2}=r^{2}}
+is uniquely determined by three points  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+,  
+(  
+x  
+2  
+,  
+y  
+2  
+)  
+,  
+(  
+x  
+3  
+,  
+y  
+3  
+)  
+{\displaystyle \left(x_{1},y_{1}\right),\;\left(x_{2},\,y_{2}\right),\;\left(x_{3},\,y_{3}\right)}
+not on a line. A simple way to determine the parameters  
+x  
+∘  
+,  
+y  
+∘  
+,
+r  
+{\displaystyle x_{\circ },y_{\circ },r}
+uses the inscribed angle theorem for circles:  
+For four points  
+P  
+i  
+=  
+(  
+x  
+i  
+,  
+y  
+i  
+)  
+,  
+i
+=
+1
+,  
+2
+,  
+3
+,  
+4
+,  
+{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right),\ i=1,\,2,\,3,\,4,\,}
+(see diagram) the following statement is true:
+The four points are on a circle if and only if the angles at  
+P  
+3  
+{\displaystyle P_{3}}
+and  
+P  
+4  
+{\displaystyle P_{4}}
+are equal.Usually one measures inscribed angles by a degree or radian θ, but here the following measurement is more convenient:  
+In order to measure the angle between two lines with equations  
+y
+=  
+m  
+1  
+x
++  
+d  
+1  
+,  
+y
+=  
+m  
+2  
+x
++  
+d  
+2  
+,  
+m  
+1  
+≠  
+m  
+2  
+,  
+{\displaystyle y=m_{1}x+d_{1},\ y=m_{2}x+d_{2},\ m_{1}\neq m_{2},}
+one uses the quotient:  
+==== Inscribed angle theorem for circles ====
+For four points  
+P  
+i  
+=  
+(  
+x  
+i  
+,  
+y  
+i  
+)  
+,  
+i
+=
+1
+,  
+2
+,  
+3
+,  
+4
+,  
+{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right),\ i=1,\,2,\,3,\,4,\,}
+no three of them on a line, we have the following (see diagram):  
+The four points are on a circle, if and only if the angles at  
+P  
+3  
+{\displaystyle P_{3}}
+and  
+P  
+4  
+{\displaystyle P_{4}}
+are equal. In terms of the angle measurement above, this means: At first the measure is available only for chords not parallel to the y-axis, but the final formula works for any chord.  
+==== Three-point form of circle equation ===="|3b44dad327ff70064c7e7d8b393399ee|https://en.wikipedia.org/wiki/Ellipse
+59|"==== Three-point form of circle equation ====
+As a consequence, one obtains an equation for the circle determined by three non-collinear points  
+P  
+i  
+=  
+(  
+x  
+i  
+,  
+y  
+i  
+)  
+{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right)}
+: For example, for  
+P  
+1  
+=
+(
+2
+,  
+0
+)
+,  
+P  
+2  
+=
+(
+0
+,  
+1
+)
+,  
+P  
+3  
+=
+(
+0
+,  
+0
+)  
+{\displaystyle P_{1}=(2,\,0),\;P_{2}=(0,\,1),\;P_{3}=(0,\,0)}
+the three-point equation is:  
+(
+x
+−
+2
+)
+x
++
+y
+(
+y
+−
+1
+)  
+y
+x
+−
+(
+y
+−
+1
+)
+(
+x
+−
+2
+)  
+=
+0  
+{\displaystyle {\frac {(x-2)x+y(y-1)}{yx-(y-1)(x-2)}}=0}
+, which can be rearranged to  
+(
+x
+−
+1  
+)  
+2  
++  
+(  
+y
+−  
+1
+2  
+)  
+2  
+=  
+5
+4  
+.  
+{\displaystyle (x-1)^{2}+\left(y-{\tfrac {1}{2}}\right)^{2}={\tfrac {5}{4}}\ .}
+Using vectors, dot products and determinants this formula can be arranged more clearly, letting  
+x
+→  
+=
+(
+x
+,  
+y
+)  
+{\displaystyle {\vec {x}}=(x,\,y)}
+:  
+The center of the circle  
+(  
+x  
+∘  
+,  
+y  
+∘  
+)  
+{\displaystyle \left(x_{\circ },\,y_{\circ }\right)}
+satisfies:  
+The radius is the distance between any of the three points and the center.  
+=== Ellipses ===
+This section considers the family of ellipses defined by equations  
+(  
+x
+−  
+x  
+∘  
+)  
+2  
+a  
+2  
++  
+(  
+y
+−  
+y  
+∘  
+)  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {\left(x-x_{\circ }\right)^{2}}{a^{2}}}+{\tfrac {\left(y-y_{\circ }\right)^{2}}{b^{2}}}=1}
+with a fixed eccentricity  
+e  
+{\displaystyle e}
+. It is convenient to use the parameter:  
+and to write the ellipse equation as:  
+where q is fixed and  
+x  
+∘  
+,  
+y  
+∘  
+,  
+a  
+{\displaystyle x_{\circ },\,y_{\circ },\,a}
+vary over the real numbers. (Such ellipses have their axes parallel to the coordinate axes: if  
+q
+<
+1  
+{\displaystyle q<1}
+, the major axis is parallel to the x-axis; if  
+q
+>
+1  
+{\displaystyle q>1}
+, it is parallel to the y-axis.)  
+Like a circle, such an ellipse is determined by three points not on a line."|a587bad59a99ac6263a085e3de83c71b|https://en.wikipedia.org/wiki/Ellipse
+60|", the major axis is parallel to the x-axis; if  
+q
+>
+1  
+{\displaystyle q>1}
+, it is parallel to the y-axis.)  
+Like a circle, such an ellipse is determined by three points not on a line.
+For this family of ellipses, one introduces the following q-analog angle measure, which is not a function of the usual angle measure θ:
+In order to measure an angle between two lines with equations  
+y
+=  
+m  
+1  
+x
++  
+d  
+1  
+,  
+y
+=  
+m  
+2  
+x
++  
+d  
+2  
+,  
+m  
+1  
+≠  
+m  
+2  
+{\displaystyle y=m_{1}x+d_{1},\ y=m_{2}x+d_{2},\ m_{1}\neq m_{2}}
+one uses the quotient:  
+==== Inscribed angle theorem for ellipses ====
+Given four points  
+P  
+i  
+=  
+(  
+x  
+i  
+,  
+y  
+i  
+)  
+,  
+i
+=
+1
+,  
+2
+,  
+3
+,  
+4  
+{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right),\ i=1,\,2,\,3,\,4}
+, no three of them on a line (see diagram).
+The four points are on an ellipse with equation  
+(
+x
+−  
+x  
+∘  
+)  
+2  
++  
+q  
+(
+y
+−  
+y  
+∘  
+)  
+2  
+=  
+a  
+2  
+{\displaystyle (x-x_{\circ })^{2}+{\color {blue}q}\,(y-y_{\circ })^{2}=a^{2}}
+if and only if the angles at  
+P  
+3  
+{\displaystyle P_{3}}
+and  
+P  
+4  
+{\displaystyle P_{4}}
+are equal in the sense of the measurement above—that is, if At first the measure is available only for chords which are not parallel to the y-axis. But the final formula works for any chord. The proof follows from a straightforward calculation. For the direction of proof given that the points are on an ellipse, one can assume that the center of the ellipse is the origin.  
+==== Three-point form of ellipse equation ====
+A consequence, one obtains an equation for the ellipse determined by three non-collinear points  
+P  
+i  
+=  
+(  
+x  
+i  
+,  
+y  
+i  
+)  
+{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right)}
+: For example, for  
+P  
+1  
+=
+(
+2
+,  
+0
+)
+,  
+P  
+2  
+=
+(
+0
+,  
+1
+)
+,  
+P  
+3  
+=
+(
+0
+,  
+0
+)  
+{\displaystyle P_{1}=(2,\,0),\;P_{2}=(0,\,1),\;P_{3}=(0,\,0)}
+and  
+q
+=
+4  
+{\displaystyle q=4}
+one obtains the three-point form  
+(
+x
+−
+2
+)
+x
++
+4
+y
+(
+y
+−
+1
+)  
+y
+x
+−
+(
+y
+−
+1
+)
+(
+x
+−
+2
+)"|d0f4f109daf382c4a346f7789b16b613|https://en.wikipedia.org/wiki/Ellipse
+61|",  
+0
+)  
+{\displaystyle P_{1}=(2,\,0),\;P_{2}=(0,\,1),\;P_{3}=(0,\,0)}
+and  
+q
+=
+4  
+{\displaystyle q=4}
+one obtains the three-point form  
+(
+x
+−
+2
+)
+x
++
+4
+y
+(
+y
+−
+1
+)  
+y
+x
+−
+(
+y
+−
+1
+)
+(
+x
+−
+2
+)  
+=
+0  
+{\displaystyle {\frac {(x-2)x+4y(y-1)}{yx-(y-1)(x-2)}}=0}
+and after conversion  
+(
+x
+−
+1  
+)  
+2  
+2  
++  
+(  
+y
+−  
+1
+2  
+)  
+2  
+1
+2  
+=
+1.  
+{\displaystyle {\frac {(x-1)^{2}}{2}}+{\frac {\left(y-{\frac {1}{2}}\right)^{2}}{\frac {1}{2}}}=1.}
+Analogously to the circle case, the equation can be written more clearly using vectors:  
+where  
+∗  
+{\displaystyle *}
+is the modified dot product  
+u
+→  
+∗  
+v
+→  
+=  
+u  
+x  
+v  
+x  
++  
+q  
+u  
+y  
+v  
+y  
+.  
+{\displaystyle {\vec {u}}*{\vec {v}}=u_{x}v_{x}+{\color {blue}q}\,u_{y}v_{y}.}"|488df63c6e33decdd32ab00299577365|https://en.wikipedia.org/wiki/Ellipse
+62|"Any ellipse can be described in a suitable coordinate system by an equation  
+x  
+2  
+a  
+2  
++  
+y  
+2  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+. The equation of the tangent at a point  
+P  
+1  
+=  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle P_{1}=\left(x_{1},\,y_{1}\right)}
+of the ellipse is  
+x  
+1  
+x  
+a  
+2  
++  
+y  
+1  
+y  
+b  
+2  
+=
+1.  
+{\displaystyle {\tfrac {x_{1}x}{a^{2}}}+{\tfrac {y_{1}y}{b^{2}}}=1.}
+If one allows point  
+P  
+1  
+=  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+{\displaystyle P_{1}=\left(x_{1},\,y_{1}\right)}
+to be an arbitrary point different from the origin, then  
+point  
+P  
+1  
+=  
+(  
+x  
+1  
+,  
+y  
+1  
+)  
+≠
+(
+0
+,  
+0
+)  
+{\displaystyle P_{1}=\left(x_{1},\,y_{1}\right)\neq (0,\,0)}
+is mapped onto the line  
+x  
+1  
+x  
+a  
+2  
++  
+y  
+1  
+y  
+b  
+2  
+=
+1  
+{\displaystyle {\tfrac {x_{1}x}{a^{2}}}+{\tfrac {y_{1}y}{b^{2}}}=1}
+, not through the center of the ellipse.This relation between points and lines is a bijection.
+The inverse function maps  
+line  
+y
+=
+m
+x
++
+d
+,  
+d
+≠
+0  
+{\displaystyle y=mx+d,\ d\neq 0}
+onto the point  
+(  
+−  
+m  
+a  
+2  
+d  
+,  
+b  
+2  
+d  
+)  
+{\displaystyle \left(-{\tfrac {ma^{2}}{d}},\,{\tfrac {b^{2}}{d}}\right)}
+and
+line  
+x
+=
+c
+,  
+c
+≠
+0  
+{\displaystyle x=c,\ c\neq 0}
+onto the point  
+(  
+a  
+2  
+c  
+,  
+0  
+)  
+.  
+{\displaystyle \left({\tfrac {a^{2}}{c}},\,0\right).}
+Such a relation between points and lines generated by a conic is called pole-polar relation or polarity. The pole is the point; the polar the line.
+By calculation one can confirm the following properties of the pole-polar relation of the ellipse:  
+For a point (pole) on the ellipse, the polar is the tangent at this point (see diagram:  
+P  
+1  
+,  
+p  
+1  
+{\displaystyle P_{1},\,p_{1}}
+).
+For a pole  
+P  
+{\displaystyle P}
+outside the ellipse, the intersection points of its polar with the ellipse are the tangency points of the two tangents passing  
+P  
+{\displaystyle P}
+(see diagram:  
+P  
+2  
+,  
+p  
+2"|f79cdc7008a7d8dae294ca3ff4c83cff|https://en.wikipedia.org/wiki/Ellipse
+63|"outside the ellipse, the intersection points of its polar with the ellipse are the tangency points of the two tangents passing  
+P  
+{\displaystyle P}
+(see diagram:  
+P  
+2  
+,  
+p  
+2  
+{\displaystyle P_{2},\,p_{2}}
+).
+For a point within the ellipse, the polar has no point with the ellipse in common (see diagram:  
+F  
+1  
+,  
+l  
+1  
+{\displaystyle F_{1},\,l_{1}}
+).The intersection point of two polars is the pole of the line through their poles.
+The foci  
+(
+c
+,  
+0
+)  
+{\displaystyle (c,\,0)}
+and  
+(
+−
+c
+,  
+0
+)  
+{\displaystyle (-c,\,0)}
+, respectively, and the directrices  
+x
+=  
+a  
+2  
+c  
+{\displaystyle x={\tfrac {a^{2}}{c}}}
+and  
+x
+=
+−  
+a  
+2  
+c  
+{\displaystyle x=-{\tfrac {a^{2}}{c}}}
+, respectively, belong to pairs of pole and polar. Because they are even polar pairs with respect to the circle  
+x  
+2  
++  
+y  
+2  
+=  
+a  
+2  
+{\displaystyle x^{2}+y^{2}=a^{2}}
+, the directrices can be constructed by compass and straightedge (see Inversive geometry).Pole-polar relations exist for hyperbolas and parabolas as well."|83852194e91ab6e18c62b42dc8fdd57a|https://en.wikipedia.org/wiki/Ellipse
+64|"All metric properties given below refer to an ellipse with equation  
+except for the section on the area enclosed by a tilted ellipse, where the generalized form of Eq.(1) will be given.  
+=== Area ===
+The area  
+A  
+ellipse  
+{\displaystyle A_{\text{ellipse}}}
+enclosed by an ellipse is:  
+where  
+a  
+{\displaystyle a}
+and  
+b  
+{\displaystyle b}
+are the lengths of the semi-major and semi-minor axes, respectively.  The area formula  
+π
+a
+b  
+{\displaystyle \pi ab}
+is intuitive: start with a circle of radius  
+b  
+{\displaystyle b}
+(so its area is  
+π  
+b  
+2  
+{\displaystyle \pi b^{2}}
+) and stretch it by a factor  
+a  
+/  
+b  
+{\displaystyle a/b}
+to make an ellipse. This scales the area by the same factor:  
+π  
+b  
+2  
+(
+a  
+/  
+b
+)
+=
+π
+a
+b
+.  
+{\displaystyle \pi b^{2}(a/b)=\pi ab.}
+However, using the same approach for the circumference would be fallacious – compare the integrals  
+∫
+f
+(
+x
+)  
+d
+x  
+{\textstyle \int f(x)\,dx}
+and  
+∫  
+1
++  
+f  
+′  
+2  
+(
+x
+)  
+d
+x  
+{\textstyle \int {\sqrt {1+f'^{2}(x)}}\,dx}
+. It is also easy to rigorously prove the area formula using integration as follows.  Equation (1) can be rewritten as  
+y
+(
+x
+)
+=
+b  
+1
+−  
+x  
+2  
+/  
+a  
+2  
+.  
+{\textstyle y(x)=b{\sqrt {1-x^{2}/a^{2}}}.}
+For  
+x
+∈
+[
+−
+a
+,
+a
+]
+,  
+{\displaystyle x\in [-a,a],}
+this curve is the top half of the ellipse.  So twice the integral of  
+y
+(
+x
+)  
+{\displaystyle y(x)}
+over the interval  
+[
+−
+a
+,
+a
+]  
+{\displaystyle [-a,a]}
+will be the area of the ellipse:  
+The second integral is the area of a circle of radius  
+a
+,  
+{\displaystyle a,}
+that is,  
+π  
+a  
+2  
+.  
+{\displaystyle \pi a^{2}.}
+So  
+An ellipse defined implicitly by  
+A  
+x  
+2  
++
+B
+x
+y
++
+C  
+y  
+2  
+=
+1  
+{\displaystyle Ax^{2}+Bxy+Cy^{2}=1}
+has area  
+2
+π  
+/  
+4
+A
+C
+−  
+B  
+2  
+.  
+{\displaystyle 2\pi /{\sqrt {4AC-B^{2}}}.}  
+The area can also be expressed in terms of eccentricity and the length of the semi-major axis as  
+a  
+2  
+π  
+1
+−  
+e  
+2  
+{\displaystyle a^{2}\pi {\sqrt {1-e^{2}}}}"|76cdee353c7802b5c2d8be4c6e333460|https://en.wikipedia.org/wiki/Ellipse
+65|"The area can also be expressed in terms of eccentricity and the length of the semi-major axis as  
+a  
+2  
+π  
+1
+−  
+e  
+2  
+{\displaystyle a^{2}\pi {\sqrt {1-e^{2}}}}
+(obtained by solving for flattening, then computing the semi-minor axis).  
+So far we have dealt with erect ellipses, whose major and minor axes are parallel to the  
+x  
+{\displaystyle x}
+and  
+y  
+{\displaystyle y}
+axes. However, some applications require tilted ellipses. In charged-particle beam optics, for instance, the enclosed area of an erect or tilted ellipse is an important property of the beam, its emittance. In this case a simple formula still applies, namely  
+where  
+y  
+int  
+{\displaystyle y_{\text{int}}}
+,  
+x  
+int  
+{\displaystyle x_{\text{int}}}
+are intercepts and  
+x  
+max  
+{\displaystyle x_{\text{max}}}
+,  
+y  
+max  
+{\displaystyle y_{\text{max}}}
+are maximum values. It follows directly from Apollonios's theorem.  
+=== Circumference ===  
+The circumference  
+C  
+{\displaystyle C}
+of an ellipse is:  
+where again  
+a  
+{\displaystyle a}
+is the length of the semi-major axis,  
+e
+=  
+1
+−  
+b  
+2  
+/  
+a  
+2  
+{\textstyle e={\sqrt {1-b^{2}/a^{2}}}}
+is the eccentricity, and the function  
+E  
+{\displaystyle E}
+is the complete elliptic integral of the second kind,  
+which is in general not an elementary function.
+The circumference of the ellipse may be evaluated in terms of  
+E
+(
+e
+)  
+{\displaystyle E(e)}
+using Gauss's arithmetic-geometric mean; this is a quadratically converging iterative method (see here for details).
+The exact infinite series is:  
+where  
+n
+!
+!  
+{\displaystyle n!!}
+is the double factorial (extended to negative odd integers by the recurrence relation  
+(
+2
+n
+−
+1
+)
+!
+!
+=
+(
+2
+n
++
+1
+)
+!
+!  
+/  
+(
+2
+n
++
+1
+)  
+{\displaystyle (2n-1)!!=(2n+1)!!/(2n+1)}
+, for  
+n
+≤
+0  
+{\displaystyle n\leq 0}
+).  This series converges, but by expanding in terms of  
+h
+=
+(
+a
+−
+b  
+)  
+2  
+/  
+(
+a
++
+b  
+)  
+2  
+,  
+{\displaystyle h=(a-b)^{2}/(a+b)^{2},}"|fe008c9569a52734255322231ed8082c|https://en.wikipedia.org/wiki/Ellipse
+66|", for  
+n
+≤
+0  
+{\displaystyle n\leq 0}
+).  This series converges, but by expanding in terms of  
+h
+=
+(
+a
+−
+b  
+)  
+2  
+/  
+(
+a
++
+b  
+)  
+2  
+,  
+{\displaystyle h=(a-b)^{2}/(a+b)^{2},}
+James Ivory and Bessel derived an expression that converges much more rapidly:  
+Srinivasa Ramanujan gave two close approximations for the circumference in §16 of ""Modular Equations and Approximations to  
+π  
+{\displaystyle \pi }
+""; they are  
+and  
+where  
+h  
+{\displaystyle h}
+takes on the same meaning as above. The errors in these approximations, which were obtained empirically, are of order  
+h  
+3  
+{\displaystyle h^{3}}
+and  
+h  
+5  
+,  
+{\displaystyle h^{5},}
+respectively.  
+=== Arc length ===  
+More generally, the arc length of a portion of the circumference, as a function of the angle subtended (or x coordinates of any two points on the upper half of the ellipse), is given by an incomplete elliptic integral. The upper half of an ellipse is parameterized by  
+Then the arc length  
+s  
+{\displaystyle s}
+from  
+x  
+1  
+{\displaystyle \ x_{1}\ }
+to  
+x  
+2  
+{\displaystyle \ x_{2}\ }
+is:  
+This is equivalent to  
+where  
+E
+(
+z
+∣
+m
+)  
+{\displaystyle E(z\mid m)}
+is the incomplete elliptic integral of the second kind with parameter  
+m
+=  
+k  
+2  
+.  
+{\displaystyle m=k^{2}.}  
+Some lower and upper bounds on the circumference of the canonical ellipse  
+x  
+2  
+/  
+a  
+2  
++  
+y  
+2  
+/  
+b  
+2  
+=
+1  
+{\displaystyle \ x^{2}/a^{2}+y^{2}/b^{2}=1\ }
+with  
+a
+≥
+b  
+{\displaystyle \ a\geq b\ }
+are
+Here the upper bound  
+2
+π
+a  
+{\displaystyle \ 2\pi a\ }
+is the circumference of a circumscribed concentric circle passing through the endpoints of the ellipse's major axis, and the lower bound  
+4  
+a  
+2  
++  
+b  
+2  
+{\displaystyle 4{\sqrt {a^{2}+b^{2}}}}
+is the perimeter of an inscribed rhombus with vertices at the endpoints of the major and the minor axes.  
+=== Curvature ===
+The curvature is given by  
+κ
+=  
+1  
+a  
+2  
+b  
+2  
+(  
+x  
+2  
+a  
+4  
++  
+y  
+2  
+b  
+4  
+)  
+−  
+3
+2  
+,"|0439d8ec028aaa73cdacdd326b8485a3|https://en.wikipedia.org/wiki/Ellipse
+67|"=== Curvature ===
+The curvature is given by  
+κ
+=  
+1  
+a  
+2  
+b  
+2  
+(  
+x  
+2  
+a  
+4  
++  
+y  
+2  
+b  
+4  
+)  
+−  
+3
+2  
+,  
+{\displaystyle \kappa ={\frac {1}{a^{2}b^{2}}}\left({\frac {x^{2}}{a^{4}}}+{\frac {y^{2}}{b^{4}}}\right)^{-{\frac {3}{2}}}\ ,}
+radius of curvature at point  
+(
+x
+,
+y
+)  
+{\displaystyle (x,y)}
+:  
+Radius of curvature at the two vertices  
+(
+±
+a
+,
+0
+)  
+{\displaystyle (\pm a,0)}
+and the centers of curvature:  
+Radius of curvature at the two co-vertices  
+(
+0
+,
+±
+b
+)  
+{\displaystyle (0,\pm b)}
+and the centers of curvature:"|86febb66795a310fa2ad7d2f2e87ee1c|https://en.wikipedia.org/wiki/Ellipse
+68|"Ellipses appear in triangle geometry as  
+Steiner ellipse: ellipse through the vertices of the triangle with center at the centroid,
+inellipses: ellipses which touch the sides of a triangle.  Special cases are the Steiner inellipse and the Mandart inellipse."|e8c5dee14d1551642e0b91bf1098b3e0|https://en.wikipedia.org/wiki/Ellipse
+69|"Ellipses appear as plane sections of the following quadrics:  
+Ellipsoid
+Elliptic cone
+Elliptic cylinder
+Hyperboloid of one sheet
+Hyperboloid of two sheets"|2c9dc377dbfa212cda067d402ba5c798|https://en.wikipedia.org/wiki/Ellipse
+70|"=== Physics ===  
+==== Elliptical reflectors and acoustics ====  
+If the water's surface is disturbed at one focus of an elliptical water tank, the circular waves of that disturbance, after reflecting off the walls, converge simultaneously to a single point: the second focus. This is a consequence of the total travel length being the same along any wall-bouncing path between the two foci.
+Similarly, if a light source is placed at one focus of an elliptic mirror, all light rays on the plane of the ellipse are reflected to the second focus. Since no other smooth curve has such a property, it can be used as an alternative definition of an ellipse. (In the special case of a circle with a source at its center all light would be reflected back to the center.) If the ellipse is rotated along its major axis to produce an ellipsoidal mirror (specifically, a prolate spheroid), this property holds for all rays out of the source. Alternatively, a cylindrical mirror with elliptical cross-section can be used to focus light from a linear fluorescent lamp along a line of the paper; such mirrors are used in some document scanners."|3637bc6e7d29e840e3d3bb195e09232e|https://en.wikipedia.org/wiki/Ellipse
+71|"Sound waves are reflected in a similar way, so in a large elliptical room a person standing at one focus can hear a person standing at the other focus remarkably well. The effect is even more evident under a vaulted roof shaped as a section of a prolate spheroid. Such a room is called a whisper chamber. The same effect can be demonstrated with two reflectors shaped like the end caps of such a spheroid, placed facing each other at the proper distance. Examples are the National Statuary Hall at the United States Capitol (where John Quincy Adams is said to have used this property for eavesdropping on political matters); the Mormon Tabernacle at Temple Square in Salt Lake City, Utah; at an exhibit on sound at the Museum of Science and Industry in Chicago; in front of the University of Illinois at Urbana–Champaign Foellinger Auditorium; and also at a side chamber of the Palace of Charles V, in the Alhambra.  
+==== Planetary orbits ====  
+In the 17th century, Johannes Kepler discovered that the orbits along which the planets travel around the Sun are ellipses with the Sun [approximately] at one focus, in his first law of planetary motion. Later, Isaac Newton explained this as a corollary of his law of universal gravitation.
+More generally, in the gravitational two-body problem, if the two bodies are bound to each other (that is, the total energy is negative), their orbits are similar ellipses with the common barycenter being one of the foci of each ellipse. The other focus of either ellipse has no known physical significance. The orbit of either body in the reference frame of the other is also an ellipse, with the other body at the same focus."|b2789972a438a25b7d99973a38fddc6c|https://en.wikipedia.org/wiki/Ellipse
+72|"Keplerian elliptical orbits are the result of any radially directed attraction force whose strength is inversely proportional to the square of the distance. Thus, in principle, the motion of two oppositely charged particles in empty space would also be an ellipse. (However, this conclusion ignores losses due to electromagnetic radiation and quantum effects, which become significant when the particles are moving at high speed.)
+For elliptical orbits, useful relations involving the eccentricity  
+e  
+{\displaystyle e}
+are:  
+where  
+r  
+a  
+{\displaystyle r_{a}}
+is the radius at apoapsis (the farthest distance)  
+r  
+p  
+{\displaystyle r_{p}}
+is the radius at periapsis (the closest distance)  
+a  
+{\displaystyle a}
+is the length of the semi-major axisAlso, in terms of  
+r  
+a  
+{\displaystyle r_{a}}
+and  
+r  
+p  
+{\displaystyle r_{p}}
+, the semi-major axis  
+a  
+{\displaystyle a}
+is their arithmetic mean, the semi-minor axis  
+b  
+{\displaystyle b}
+is their geometric mean, and the semi-latus rectum  
+ℓ  
+{\displaystyle \ell }
+is their harmonic mean. In other words,  
+==== Harmonic oscillators ====
+The general solution for a harmonic oscillator in two or more dimensions is also an ellipse. Such is the case, for instance, of a long pendulum that is free to move in two dimensions; of a mass attached to a fixed point by a perfectly elastic spring; or of any object that moves under influence of an attractive force that is directly proportional to its distance from a fixed attractor. Unlike Keplerian orbits, however, these ""harmonic orbits"" have the center of attraction at the geometric center of the ellipse, and have fairly simple equations of motion.  
+==== Phase visualization ====
+In electronics, the relative phase of two sinusoidal signals can be compared by feeding them to the vertical and horizontal inputs of an oscilloscope. If the Lissajous figure display is an ellipse, rather than a straight line, the two signals are out of phase.  
+==== Elliptical gears ===="|e97ed7fe05696ac03cd9873d0d738fac|https://en.wikipedia.org/wiki/Ellipse
+73|"==== Elliptical gears ====
+Two non-circular gears with the same elliptical outline, each pivoting around one focus and positioned at the proper angle, turn smoothly while maintaining contact at all times. Alternatively, they can be connected by a link chain or timing belt, or in the case of a bicycle the main chainring may be elliptical, or an ovoid similar to an ellipse in form. Such elliptical gears may be used in mechanical equipment to produce variable angular speed or torque from a constant rotation of the driving axle, or in the case of a bicycle to allow a varying crank rotation speed with inversely varying mechanical advantage.
+Elliptical bicycle gears make it easier for the chain to slide off the cog when changing gears.An example gear application would be a device that winds thread onto a conical bobbin on a spinning machine. The bobbin would need to wind faster when the thread is near the apex than when it is near the base.  
+==== Optics ====
+In a material that is optically anisotropic (birefringent), the refractive index depends on the direction of the light. The dependency can be described by an index ellipsoid. (If the material is optically isotropic, this ellipsoid is a sphere.)
+In lamp-pumped solid-state lasers, elliptical cylinder-shaped reflectors have been used to direct light from the pump lamp (coaxial with one ellipse focal axis) to the active medium rod (coaxial with the second focal axis).
+In laser-plasma produced EUV light sources used in microchip lithography, EUV light is generated by plasma positioned in the primary focus of an ellipsoid mirror and is collected in the secondary focus at the input of the lithography machine.  
+=== Statistics and finance ===
+In statistics, a bivariate random vector  
+(
+X
+,
+Y
+)  
+{\displaystyle (X,Y)}"|2de846698794d572682e27ac85e753d7|https://en.wikipedia.org/wiki/Ellipse
+74|"=== Statistics and finance ===
+In statistics, a bivariate random vector  
+(
+X
+,
+Y
+)  
+{\displaystyle (X,Y)}
+is jointly elliptically distributed if its iso-density contours—loci of equal values of the density function—are ellipses. The concept extends to an arbitrary number of elements of the random vector, in which case in general the iso-density contours are ellipsoids. A special case is the multivariate normal distribution. The elliptical distributions are important in finance because if rates of return on assets are jointly elliptically distributed then all portfolios can be characterized completely by their mean and variance—that is, any two portfolios with identical mean and variance of portfolio return have identical distributions of portfolio return.  
+=== Computer graphics ===
+Drawing an ellipse as a graphics primitive is common in standard display libraries, such as the MacIntosh QuickDraw API, and Direct2D on Windows. Jack Bresenham at IBM is most famous for the invention of 2D drawing primitives, including line and circle drawing, using only fast integer operations such as addition and branch on carry bit. M. L. V. Pitteway extended Bresenham's algorithm for lines to conics in 1967. Another efficient generalization to draw ellipses was invented in 1984 by Jerry Van Aken.In 1970 Danny Cohen presented at the ""Computer Graphics 1970"" conference in England a linear algorithm for drawing ellipses and circles. In 1971, L. B. Smith published similar algorithms for all conic sections and proved them to have good properties. These algorithms need only a few multiplications and additions to calculate each vector.
+It is beneficial to use a parametric formulation in computer graphics because the density of points is greatest where there is the most curvature. Thus, the change in slope between each successive point is small, reducing the apparent ""jaggedness"" of the approximation.  
+Drawing with Bézier paths"|01dccb5454d63e7b42c3146cb45dcbf2|https://en.wikipedia.org/wiki/Ellipse
+75|"Drawing with Bézier paths
+Composite Bézier curves may also be used to draw an ellipse to sufficient accuracy, since any ellipse may be construed as an affine transformation of a circle. The spline methods used to draw a circle may be used to draw an ellipse, since the constituent Bézier curves behave appropriately under such transformations.  
+=== Optimization theory ===
+It is sometimes useful to find the minimum bounding ellipse on a set of points. The ellipsoid method is quite useful for solving this problem."|4a5637a84ea4e6b3a2e0c931cf275193|https://en.wikipedia.org/wiki/Ellipse
